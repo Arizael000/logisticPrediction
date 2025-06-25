@@ -1,0 +1,3001 @@
+fecha,producto,categoria,cantidad,precio_unitario,total
+2024-08-04,Frijoles,Granos,5,1.0,5.0
+2024-09-01,Yogurt,Lácteos,2,1.1,2.2
+2024-08-18,Pan,Panadería,4,0.5,2.0
+2024-10-26,Frijoles,Granos,4,1.0,4.0
+2024-08-12,Queso,Lácteos,2,2.5,5.0
+2024-09-24,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-04,Arroz,Granos,2,1.2,2.4
+2024-08-28,Frijoles,Granos,2,1.0,2.0
+2024-10-04,Pan,Panadería,3,0.5,1.5
+2024-08-04,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-26,Queso,Lácteos,2,2.5,5.0
+2024-09-23,Queso,Lácteos,1,2.5,2.5
+2024-09-27,Pan,Panadería,5,0.5,2.5
+2024-09-05,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-06,Arroz,Granos,2,1.2,2.4
+2024-10-29,Leche,Lácteos,4,0.9,3.6
+2024-09-13,Pollo,Carnes,3,3.5,10.5
+2024-08-20,Yogurt,Lácteos,7,1.1,7.7
+2024-12-01,Pan,Panadería,2,0.5,1.0
+2024-08-14,Aceite,Aceites,2,2.0,4.0
+2024-09-18,Frijoles,Granos,3,1.0,3.0
+2024-09-15,Frijoles,Granos,3,1.0,3.0
+2024-10-17,Aceite,Aceites,2,2.0,4.0
+2024-11-12,Yogurt,Lácteos,4,1.1,4.4
+2024-11-02,Arroz,Granos,5,1.2,6.0
+2024-10-08,Carne molida,Carnes,2,4.0,8.0
+2024-11-27,Frijoles,Granos,4,1.0,4.0
+2024-08-11,Pollo,Carnes,2,3.5,7.0
+2024-09-07,Queso,Lácteos,5,2.5,12.5
+2024-11-22,Jugo natural,Bebidas,5,1.8,9.0
+2024-10-13,Aceite,Aceites,3,2.0,6.0
+2024-10-30,Pan,Panadería,1,0.5,0.5
+2024-08-06,Frijoles,Granos,1,1.0,1.0
+2024-11-07,Pan,Panadería,3,0.5,1.5
+2024-08-11,Yogurt,Lácteos,3,1.1,3.3
+2024-11-19,Pan,Panadería,3,0.5,1.5
+2024-09-18,Frijoles,Granos,2,1.0,2.0
+2024-09-28,Yogurt,Lácteos,6,1.1,6.6
+2024-08-21,Aceite,Aceites,5,2.0,10.0
+2024-09-15,Aceite,Aceites,1,2.0,2.0
+2024-10-25,Pan,Panadería,2,0.5,1.0
+2024-10-29,Yogurt,Lácteos,3,1.1,3.3
+2024-10-17,Frijoles,Granos,3,1.0,3.0
+2024-10-08,Leche,Lácteos,1,0.9,0.9
+2024-08-21,Pan,Panadería,3,0.5,1.5
+2024-09-18,Carne molida,Carnes,3,4.0,12.0
+2024-11-27,Yogurt,Lácteos,4,1.1,4.4
+2024-08-29,Queso,Lácteos,2,2.5,5.0
+2024-11-16,Aceite,Aceites,1,2.0,2.0
+2024-08-30,Arroz,Granos,3,1.2,3.6
+2024-11-12,Arroz,Granos,3,1.2,3.6
+2024-09-21,Aceite,Aceites,2,2.0,4.0
+2024-08-09,Yogurt,Lácteos,4,1.1,4.4
+2024-11-25,Pan,Panadería,3,0.5,1.5
+2024-11-21,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-28,Aceite,Aceites,3,2.0,6.0
+2024-09-20,Carne molida,Carnes,1,4.0,4.0
+2024-08-19,Carne molida,Carnes,3,4.0,12.0
+2024-08-18,Yogurt,Lácteos,2,1.1,2.2
+2024-11-04,Pan,Panadería,2,0.5,1.0
+2024-10-08,Queso,Lácteos,4,2.5,10.0
+2024-11-04,Yogurt,Lácteos,2,1.1,2.2
+2024-09-24,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-21,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-29,Aceite,Aceites,1,2.0,2.0
+2024-10-05,Leche,Lácteos,5,0.9,4.5
+2024-08-12,Carne molida,Carnes,6,4.0,24.0
+2024-11-19,Arroz,Granos,3,1.2,3.6
+2024-08-20,Frijoles,Granos,1,1.0,1.0
+2024-11-10,Leche,Lácteos,1,0.9,0.9
+2024-10-16,Pollo,Carnes,2,3.5,7.0
+2024-09-19,Frijoles,Granos,2,1.0,2.0
+2024-10-16,Pollo,Carnes,3,3.5,10.5
+2024-10-07,Carne molida,Carnes,3,4.0,12.0
+2024-10-10,Yogurt,Lácteos,6,1.1,6.6
+2024-10-27,Arroz,Granos,2,1.2,2.4
+2024-10-27,Frijoles,Granos,3,1.0,3.0
+2024-11-05,Queso,Lácteos,5,2.5,12.5
+2024-11-07,Yogurt,Lácteos,2,1.1,2.2
+2024-08-15,Aceite,Aceites,3,2.0,6.0
+2024-09-25,Yogurt,Lácteos,2,1.1,2.2
+2024-09-28,Leche,Lácteos,5,0.9,4.5
+2024-12-01,Arroz,Granos,6,1.2,7.2
+2024-10-04,Yogurt,Lácteos,3,1.1,3.3
+2024-10-04,Leche,Lácteos,2,0.9,1.8
+2024-11-20,Frijoles,Granos,4,1.0,4.0
+2024-11-16,Yogurt,Lácteos,3,1.1,3.3
+2024-10-17,Queso,Lácteos,6,2.5,15.0
+2024-08-20,Pan,Panadería,6,0.5,3.0
+2024-11-06,Aceite,Aceites,6,2.0,12.0
+2024-10-09,Leche,Lácteos,2,0.9,1.8
+2024-11-26,Queso,Lácteos,1,2.5,2.5
+2024-10-16,Arroz,Granos,2,1.2,2.4
+2024-10-02,Aceite,Aceites,3,2.0,6.0
+2024-08-15,Arroz,Granos,2,1.2,2.4
+2024-11-21,Aceite,Aceites,1,2.0,2.0
+2024-08-31,Yogurt,Lácteos,3,1.1,3.3
+2024-08-31,Arroz,Granos,3,1.2,3.6
+2024-11-30,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-11,Frijoles,Granos,1,1.0,1.0
+2024-11-13,Carne molida,Carnes,4,4.0,16.0
+2024-11-06,Frijoles,Granos,4,1.0,4.0
+2024-11-07,Queso,Lácteos,2,2.5,5.0
+2024-08-17,Leche,Lácteos,1,0.9,0.9
+2024-11-30,Carne molida,Carnes,1,4.0,4.0
+2024-08-22,Queso,Lácteos,5,2.5,12.5
+2024-10-07,Yogurt,Lácteos,2,1.1,2.2
+2024-09-24,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-27,Pan,Panadería,5,0.5,2.5
+2024-11-05,Queso,Lácteos,2,2.5,5.0
+2024-10-31,Pan,Panadería,2,0.5,1.0
+2024-09-21,Yogurt,Lácteos,1,1.1,1.1
+2024-09-26,Aceite,Aceites,1,2.0,2.0
+2024-09-27,Queso,Lácteos,1,2.5,2.5
+2024-09-01,Frijoles,Granos,4,1.0,4.0
+2024-08-09,Pan,Panadería,3,0.5,1.5
+2024-08-03,Aceite,Aceites,3,2.0,6.0
+2024-10-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-15,Pan,Panadería,3,0.5,1.5
+2024-08-01,Pan,Panadería,3,0.5,1.5
+2024-10-30,Frijoles,Granos,1,1.0,1.0
+2024-08-30,Arroz,Granos,2,1.2,2.4
+2024-11-24,Frijoles,Granos,4,1.0,4.0
+2024-11-19,Arroz,Granos,5,1.2,6.0
+2024-08-10,Aceite,Aceites,4,2.0,8.0
+2024-08-31,Queso,Lácteos,1,2.5,2.5
+2024-10-25,Yogurt,Lácteos,1,1.1,1.1
+2024-08-28,Carne molida,Carnes,1,4.0,4.0
+2024-08-17,Queso,Lácteos,2,2.5,5.0
+2024-10-13,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-01,Carne molida,Carnes,3,4.0,12.0
+2024-11-12,Carne molida,Carnes,6,4.0,24.0
+2024-08-25,Pollo,Carnes,2,3.5,7.0
+2024-08-13,Frijoles,Granos,4,1.0,4.0
+2024-09-15,Pollo,Carnes,5,3.5,17.5
+2024-09-22,Pollo,Carnes,3,3.5,10.5
+2024-11-19,Carne molida,Carnes,4,4.0,16.0
+2024-10-26,Arroz,Granos,3,1.2,3.6
+2024-08-08,Frijoles,Granos,2,1.0,2.0
+2024-11-02,Pollo,Carnes,5,3.5,17.5
+2024-11-11,Aceite,Aceites,2,2.0,4.0
+2024-09-01,Frijoles,Granos,4,1.0,4.0
+2024-08-25,Pan,Panadería,2,0.5,1.0
+2024-09-27,Queso,Lácteos,2,2.5,5.0
+2024-09-24,Leche,Lácteos,4,0.9,3.6
+2024-09-05,Leche,Lácteos,1,0.9,0.9
+2024-09-01,Carne molida,Carnes,2,4.0,8.0
+2024-09-26,Frijoles,Granos,2,1.0,2.0
+2024-08-13,Queso,Lácteos,1,2.5,2.5
+2024-10-23,Arroz,Granos,2,1.2,2.4
+2024-11-16,Queso,Lácteos,3,2.5,7.5
+2024-08-12,Arroz,Granos,1,1.2,1.2
+2024-08-22,Pan,Panadería,4,0.5,2.0
+2024-10-02,Pollo,Carnes,5,3.5,17.5
+2024-08-28,Carne molida,Carnes,5,4.0,20.0
+2024-11-24,Pollo,Carnes,2,3.5,7.0
+2024-08-22,Arroz,Granos,2,1.2,2.4
+2024-08-01,Pollo,Carnes,1,3.5,3.5
+2024-09-03,Pollo,Carnes,1,3.5,3.5
+2024-09-06,Carne molida,Carnes,5,4.0,20.0
+2024-10-29,Pollo,Carnes,3,3.5,10.5
+2024-10-24,Queso,Lácteos,2,2.5,5.0
+2024-08-20,Carne molida,Carnes,2,4.0,8.0
+2024-09-07,Pan,Panadería,4,0.5,2.0
+2024-08-08,Pan,Panadería,5,0.5,2.5
+2024-11-03,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-08,Queso,Lácteos,4,2.5,10.0
+2024-08-08,Aceite,Aceites,3,2.0,6.0
+2024-10-14,Arroz,Granos,3,1.2,3.6
+2024-10-04,Carne molida,Carnes,1,4.0,4.0
+2024-08-21,Queso,Lácteos,5,2.5,12.5
+2024-12-01,Arroz,Granos,3,1.2,3.6
+2024-08-11,Queso,Lácteos,6,2.5,15.0
+2024-08-09,Leche,Lácteos,3,0.9,2.7
+2024-08-09,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-21,Pan,Panadería,4,0.5,2.0
+2024-11-29,Frijoles,Granos,6,1.0,6.0
+2024-09-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-16,Jugo natural,Bebidas,1,1.8,1.8
+2024-10-19,Arroz,Granos,9,1.2,10.8
+2024-09-23,Frijoles,Granos,2,1.0,2.0
+2024-10-12,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-10,Queso,Lácteos,4,2.5,10.0
+2024-08-27,Yogurt,Lácteos,5,1.1,5.5
+2024-08-31,Aceite,Aceites,4,2.0,8.0
+2024-09-20,Yogurt,Lácteos,1,1.1,1.1
+2024-10-25,Leche,Lácteos,1,0.9,0.9
+2024-09-28,Yogurt,Lácteos,4,1.1,4.4
+2024-11-27,Aceite,Aceites,2,2.0,4.0
+2024-08-02,Frijoles,Granos,3,1.0,3.0
+2024-10-19,Carne molida,Carnes,4,4.0,16.0
+2024-08-13,Jugo natural,Bebidas,6,1.8,10.8
+2024-10-08,Frijoles,Granos,3,1.0,3.0
+2024-10-04,Pan,Panadería,4,0.5,2.0
+2024-08-17,Yogurt,Lácteos,3,1.1,3.3
+2024-11-21,Aceite,Aceites,1,2.0,2.0
+2024-11-21,Frijoles,Granos,1,1.0,1.0
+2024-09-17,Pan,Panadería,2,0.5,1.0
+2024-08-21,Yogurt,Lácteos,2,1.1,2.2
+2024-11-15,Carne molida,Carnes,4,4.0,16.0
+2024-10-30,Queso,Lácteos,2,2.5,5.0
+2024-10-18,Yogurt,Lácteos,1,1.1,1.1
+2024-08-02,Queso,Lácteos,2,2.5,5.0
+2024-09-08,Queso,Lácteos,2,2.5,5.0
+2024-11-29,Frijoles,Granos,1,1.0,1.0
+2024-09-03,Leche,Lácteos,2,0.9,1.8
+2024-11-22,Frijoles,Granos,3,1.0,3.0
+2024-11-04,Frijoles,Granos,1,1.0,1.0
+2024-08-20,Queso,Lácteos,3,2.5,7.5
+2024-09-06,Yogurt,Lácteos,3,1.1,3.3
+2024-08-27,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-27,Aceite,Aceites,2,2.0,4.0
+2024-10-04,Yogurt,Lácteos,3,1.1,3.3
+2024-09-02,Carne molida,Carnes,3,4.0,12.0
+2024-08-12,Arroz,Granos,4,1.2,4.8
+2024-11-15,Pollo,Carnes,2,3.5,7.0
+2024-08-06,Yogurt,Lácteos,3,1.1,3.3
+2024-09-12,Arroz,Granos,2,1.2,2.4
+2024-10-21,Leche,Lácteos,1,0.9,0.9
+2024-08-21,Yogurt,Lácteos,2,1.1,2.2
+2024-10-10,Carne molida,Carnes,2,4.0,8.0
+2024-10-11,Pollo,Carnes,6,3.5,21.0
+2024-08-15,Arroz,Granos,4,1.2,4.8
+2024-11-29,Frijoles,Granos,1,1.0,1.0
+2024-10-09,Leche,Lácteos,2,0.9,1.8
+2024-11-15,Arroz,Granos,3,1.2,3.6
+2024-10-14,Aceite,Aceites,4,2.0,8.0
+2024-08-19,Queso,Lácteos,2,2.5,5.0
+2024-08-17,Pollo,Carnes,2,3.5,7.0
+2024-09-09,Arroz,Granos,2,1.2,2.4
+2024-11-24,Aceite,Aceites,2,2.0,4.0
+2024-11-24,Arroz,Granos,4,1.2,4.8
+2024-08-27,Aceite,Aceites,5,2.0,10.0
+2024-10-25,Pan,Panadería,2,0.5,1.0
+2024-09-15,Frijoles,Granos,4,1.0,4.0
+2024-11-22,Queso,Lácteos,3,2.5,7.5
+2024-10-19,Pollo,Carnes,3,3.5,10.5
+2024-11-27,Leche,Lácteos,1,0.9,0.9
+2024-11-19,Pan,Panadería,3,0.5,1.5
+2024-11-11,Leche,Lácteos,2,0.9,1.8
+2024-11-21,Leche,Lácteos,2,0.9,1.8
+2024-08-04,Pollo,Carnes,2,3.5,7.0
+2024-11-03,Leche,Lácteos,1,0.9,0.9
+2024-11-09,Aceite,Aceites,4,2.0,8.0
+2024-11-11,Pollo,Carnes,5,3.5,17.5
+2024-09-04,Pan,Panadería,5,0.5,2.5
+2024-11-09,Leche,Lácteos,3,0.9,2.7
+2024-09-18,Frijoles,Granos,1,1.0,1.0
+2024-11-18,Arroz,Granos,4,1.2,4.8
+2024-08-29,Carne molida,Carnes,3,4.0,12.0
+2024-11-13,Pan,Panadería,2,0.5,1.0
+2024-09-14,Carne molida,Carnes,3,4.0,12.0
+2024-11-14,Yogurt,Lácteos,4,1.1,4.4
+2024-08-29,Pan,Panadería,3,0.5,1.5
+2024-10-24,Arroz,Granos,3,1.2,3.6
+2024-09-21,Pan,Panadería,5,0.5,2.5
+2024-09-05,Aceite,Aceites,1,2.0,2.0
+2024-11-07,Frijoles,Granos,4,1.0,4.0
+2024-09-14,Yogurt,Lácteos,6,1.1,6.6
+2024-09-21,Queso,Lácteos,2,2.5,5.0
+2024-09-12,Queso,Lácteos,2,2.5,5.0
+2024-08-15,Arroz,Granos,4,1.2,4.8
+2024-08-23,Yogurt,Lácteos,2,1.1,2.2
+2024-09-03,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-14,Arroz,Granos,3,1.2,3.6
+2024-09-25,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-02,Aceite,Aceites,4,2.0,8.0
+2024-09-25,Aceite,Aceites,2,2.0,4.0
+2024-10-05,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-19,Frijoles,Granos,3,1.0,3.0
+2024-08-25,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-06,Yogurt,Lácteos,7,1.1,7.7
+2024-08-01,Pollo,Carnes,4,3.5,14.0
+2024-11-27,Queso,Lácteos,4,2.5,10.0
+2024-10-27,Queso,Lácteos,3,2.5,7.5
+2024-09-16,Pan,Panadería,5,0.5,2.5
+2024-08-09,Pollo,Carnes,1,3.5,3.5
+2024-10-19,Aceite,Aceites,3,2.0,6.0
+2024-10-24,Aceite,Aceites,2,2.0,4.0
+2024-11-01,Frijoles,Granos,4,1.0,4.0
+2024-10-04,Yogurt,Lácteos,3,1.1,3.3
+2024-10-25,Yogurt,Lácteos,2,1.1,2.2
+2024-09-11,Pollo,Carnes,2,3.5,7.0
+2024-10-29,Pollo,Carnes,4,3.5,14.0
+2024-10-10,Yogurt,Lácteos,2,1.1,2.2
+2024-08-25,Leche,Lácteos,2,0.9,1.8
+2024-10-25,Pollo,Carnes,3,3.5,10.5
+2024-10-26,Pollo,Carnes,1,3.5,3.5
+2024-10-18,Leche,Lácteos,4,0.9,3.6
+2024-09-08,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-10,Pollo,Carnes,2,3.5,7.0
+2024-09-08,Arroz,Granos,3,1.2,3.6
+2024-08-27,Yogurt,Lácteos,4,1.1,4.4
+2024-11-09,Pollo,Carnes,3,3.5,10.5
+2024-10-17,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-29,Aceite,Aceites,3,2.0,6.0
+2024-09-26,Carne molida,Carnes,1,4.0,4.0
+2024-10-05,Pan,Panadería,2,0.5,1.0
+2024-11-10,Carne molida,Carnes,2,4.0,8.0
+2024-10-24,Leche,Lácteos,2,0.9,1.8
+2024-09-06,Frijoles,Granos,2,1.0,2.0
+2024-10-24,Queso,Lácteos,1,2.5,2.5
+2024-09-12,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-13,Frijoles,Granos,2,1.0,2.0
+2024-10-26,Pan,Panadería,4,0.5,2.0
+2024-08-29,Yogurt,Lácteos,3,1.1,3.3
+2024-08-19,Pan,Panadería,3,0.5,1.5
+2024-08-06,Arroz,Granos,1,1.2,1.2
+2024-09-30,Pan,Panadería,2,0.5,1.0
+2024-11-17,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-28,Frijoles,Granos,4,1.0,4.0
+2024-11-22,Pollo,Carnes,2,3.5,7.0
+2024-08-25,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-03,Pollo,Carnes,3,3.5,10.5
+2024-09-01,Pollo,Carnes,4,3.5,14.0
+2024-10-23,Leche,Lácteos,5,0.9,4.5
+2024-11-23,Arroz,Granos,1,1.2,1.2
+2024-11-08,Frijoles,Granos,3,1.0,3.0
+2024-08-29,Pollo,Carnes,2,3.5,7.0
+2024-11-11,Leche,Lácteos,4,0.9,3.6
+2024-09-29,Queso,Lácteos,2,2.5,5.0
+2024-10-11,Arroz,Granos,2,1.2,2.4
+2024-11-26,Pan,Panadería,3,0.5,1.5
+2024-09-28,Frijoles,Granos,3,1.0,3.0
+2024-11-11,Leche,Lácteos,1,0.9,0.9
+2024-10-25,Carne molida,Carnes,2,4.0,8.0
+2024-10-11,Queso,Lácteos,5,2.5,12.5
+2024-09-10,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-18,Carne molida,Carnes,1,4.0,4.0
+2024-09-24,Queso,Lácteos,2,2.5,5.0
+2024-09-27,Queso,Lácteos,1,2.5,2.5
+2024-11-04,Leche,Lácteos,3,0.9,2.7
+2024-09-27,Carne molida,Carnes,2,4.0,8.0
+2024-11-05,Yogurt,Lácteos,3,1.1,3.3
+2024-11-16,Pan,Panadería,5,0.5,2.5
+2024-11-07,Yogurt,Lácteos,1,1.1,1.1
+2024-10-02,Queso,Lácteos,3,2.5,7.5
+2024-09-05,Pan,Panadería,3,0.5,1.5
+2024-08-10,Carne molida,Carnes,2,4.0,8.0
+2024-08-31,Yogurt,Lácteos,1,1.1,1.1
+2024-09-12,Yogurt,Lácteos,4,1.1,4.4
+2024-11-23,Aceite,Aceites,4,2.0,8.0
+2024-08-11,Queso,Lácteos,3,2.5,7.5
+2024-08-20,Leche,Lácteos,1,0.9,0.9
+2024-09-19,Pan,Panadería,2,0.5,1.0
+2024-10-30,Leche,Lácteos,3,0.9,2.7
+2024-08-09,Pan,Panadería,6,0.5,3.0
+2024-09-22,Pollo,Carnes,3,3.5,10.5
+2024-10-09,Aceite,Aceites,4,2.0,8.0
+2024-09-23,Carne molida,Carnes,3,4.0,12.0
+2024-08-27,Arroz,Granos,3,1.2,3.6
+2024-09-19,Pollo,Carnes,6,3.5,21.0
+2024-11-30,Jugo natural,Bebidas,5,1.8,9.0
+2024-11-18,Arroz,Granos,3,1.2,3.6
+2024-09-18,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-01,Carne molida,Carnes,4,4.0,16.0
+2024-09-08,Aceite,Aceites,3,2.0,6.0
+2024-11-18,Pollo,Carnes,4,3.5,14.0
+2024-10-08,Pollo,Carnes,2,3.5,7.0
+2024-11-11,Queso,Lácteos,2,2.5,5.0
+2024-11-23,Jugo natural,Bebidas,6,1.8,10.8
+2024-10-02,Pan,Panadería,4,0.5,2.0
+2024-09-04,Pan,Panadería,5,0.5,2.5
+2024-10-02,Pollo,Carnes,3,3.5,10.5
+2024-09-19,Arroz,Granos,2,1.2,2.4
+2024-10-25,Aceite,Aceites,2,2.0,4.0
+2024-11-01,Pollo,Carnes,1,3.5,3.5
+2024-11-16,Leche,Lácteos,1,0.9,0.9
+2024-11-26,Carne molida,Carnes,4,4.0,16.0
+2024-10-19,Leche,Lácteos,4,0.9,3.6
+2024-08-04,Queso,Lácteos,5,2.5,12.5
+2024-10-15,Pollo,Carnes,3,3.5,10.5
+2024-10-24,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-11,Arroz,Granos,2,1.2,2.4
+2024-08-18,Pollo,Carnes,3,3.5,10.5
+2024-08-24,Carne molida,Carnes,1,4.0,4.0
+2024-09-03,Arroz,Granos,6,1.2,7.2
+2024-09-11,Pollo,Carnes,3,3.5,10.5
+2024-09-28,Pan,Panadería,3,0.5,1.5
+2024-09-13,Aceite,Aceites,4,2.0,8.0
+2024-09-05,Pollo,Carnes,3,3.5,10.5
+2024-09-02,Pollo,Carnes,7,3.5,24.5
+2024-09-30,Frijoles,Granos,3,1.0,3.0
+2024-11-04,Arroz,Granos,3,1.2,3.6
+2024-08-07,Queso,Lácteos,3,2.5,7.5
+2024-08-29,Aceite,Aceites,4,2.0,8.0
+2024-11-08,Frijoles,Granos,4,1.0,4.0
+2024-11-05,Arroz,Granos,4,1.2,4.8
+2024-11-30,Arroz,Granos,7,1.2,8.4
+2024-08-26,Pan,Panadería,2,0.5,1.0
+2024-10-19,Arroz,Granos,3,1.2,3.6
+2024-08-31,Leche,Lácteos,2,0.9,1.8
+2024-09-30,Leche,Lácteos,3,0.9,2.7
+2024-10-12,Frijoles,Granos,4,1.0,4.0
+2024-09-29,Pan,Panadería,4,0.5,2.0
+2024-11-07,Yogurt,Lácteos,3,1.1,3.3
+2024-08-22,Aceite,Aceites,2,2.0,4.0
+2024-10-17,Jugo natural,Bebidas,5,1.8,9.0
+2024-11-08,Frijoles,Granos,2,1.0,2.0
+2024-09-09,Leche,Lácteos,3,0.9,2.7
+2024-10-14,Frijoles,Granos,3,1.0,3.0
+2024-11-27,Arroz,Granos,3,1.2,3.6
+2024-10-13,Yogurt,Lácteos,1,1.1,1.1
+2024-09-20,Pollo,Carnes,5,3.5,17.5
+2024-08-10,Pan,Panadería,2,0.5,1.0
+2024-10-28,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-14,Pan,Panadería,3,0.5,1.5
+2024-11-17,Yogurt,Lácteos,3,1.1,3.3
+2024-11-12,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-10,Frijoles,Granos,3,1.0,3.0
+2024-11-09,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-14,Arroz,Granos,3,1.2,3.6
+2024-09-24,Queso,Lácteos,3,2.5,7.5
+2024-08-09,Aceite,Aceites,4,2.0,8.0
+2024-10-22,Queso,Lácteos,3,2.5,7.5
+2024-08-02,Aceite,Aceites,3,2.0,6.0
+2024-11-14,Pollo,Carnes,1,3.5,3.5
+2024-08-14,Carne molida,Carnes,4,4.0,16.0
+2024-12-01,Pollo,Carnes,4,3.5,14.0
+2024-10-21,Aceite,Aceites,5,2.0,10.0
+2024-10-30,Carne molida,Carnes,1,4.0,4.0
+2024-09-25,Leche,Lácteos,5,0.9,4.5
+2024-11-02,Leche,Lácteos,1,0.9,0.9
+2024-10-23,Queso,Lácteos,3,2.5,7.5
+2024-10-18,Yogurt,Lácteos,2,1.1,2.2
+2024-11-08,Queso,Lácteos,3,2.5,7.5
+2024-09-29,Carne molida,Carnes,3,4.0,12.0
+2024-11-14,Pollo,Carnes,1,3.5,3.5
+2024-09-04,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-18,Aceite,Aceites,5,2.0,10.0
+2024-11-15,Pan,Panadería,2,0.5,1.0
+2024-09-05,Frijoles,Granos,3,1.0,3.0
+2024-09-01,Carne molida,Carnes,4,4.0,16.0
+2024-10-12,Carne molida,Carnes,1,4.0,4.0
+2024-10-25,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-13,Pollo,Carnes,2,3.5,7.0
+2024-10-03,Arroz,Granos,1,1.2,1.2
+2024-08-24,Aceite,Aceites,2,2.0,4.0
+2024-08-28,Carne molida,Carnes,4,4.0,16.0
+2024-11-11,Aceite,Aceites,2,2.0,4.0
+2024-09-13,Yogurt,Lácteos,3,1.1,3.3
+2024-11-21,Yogurt,Lácteos,2,1.1,2.2
+2024-10-29,Jugo natural,Bebidas,6,1.8,10.8
+2024-10-11,Yogurt,Lácteos,2,1.1,2.2
+2024-10-06,Arroz,Granos,5,1.2,6.0
+2024-08-11,Pan,Panadería,3,0.5,1.5
+2024-11-01,Pan,Panadería,1,0.5,0.5
+2024-10-02,Pollo,Carnes,2,3.5,7.0
+2024-11-06,Queso,Lácteos,4,2.5,10.0
+2024-10-28,Pan,Panadería,3,0.5,1.5
+2024-10-22,Carne molida,Carnes,4,4.0,16.0
+2024-09-27,Carne molida,Carnes,4,4.0,16.0
+2024-08-12,Arroz,Granos,2,1.2,2.4
+2024-08-29,Yogurt,Lácteos,1,1.1,1.1
+2024-10-28,Pollo,Carnes,2,3.5,7.0
+2024-09-09,Pan,Panadería,5,0.5,2.5
+2024-09-17,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-10,Carne molida,Carnes,5,4.0,20.0
+2024-09-14,Queso,Lácteos,4,2.5,10.0
+2024-11-04,Pollo,Carnes,3,3.5,10.5
+2024-09-12,Queso,Lácteos,4,2.5,10.0
+2024-10-29,Aceite,Aceites,3,2.0,6.0
+2024-09-04,Carne molida,Carnes,3,4.0,12.0
+2024-09-02,Yogurt,Lácteos,3,1.1,3.3
+2024-08-16,Pan,Panadería,4,0.5,2.0
+2024-09-10,Pan,Panadería,2,0.5,1.0
+2024-11-04,Frijoles,Granos,3,1.0,3.0
+2024-11-30,Queso,Lácteos,4,2.5,10.0
+2024-08-25,Leche,Lácteos,3,0.9,2.7
+2024-11-03,Pan,Panadería,1,0.5,0.5
+2024-09-05,Carne molida,Carnes,2,4.0,8.0
+2024-11-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-16,Queso,Lácteos,3,2.5,7.5
+2024-08-13,Yogurt,Lácteos,2,1.1,2.2
+2024-09-07,Pan,Panadería,1,0.5,0.5
+2024-09-16,Pan,Panadería,6,0.5,3.0
+2024-09-08,Leche,Lácteos,3,0.9,2.7
+2024-10-30,Arroz,Granos,2,1.2,2.4
+2024-08-17,Queso,Lácteos,3,2.5,7.5
+2024-08-06,Yogurt,Lácteos,1,1.1,1.1
+2024-10-10,Arroz,Granos,3,1.2,3.6
+2024-10-29,Yogurt,Lácteos,2,1.1,2.2
+2024-10-21,Leche,Lácteos,4,0.9,3.6
+2024-08-14,Carne molida,Carnes,5,4.0,20.0
+2024-10-13,Arroz,Granos,3,1.2,3.6
+2024-09-30,Yogurt,Lácteos,1,1.1,1.1
+2024-09-26,Carne molida,Carnes,3,4.0,12.0
+2024-08-24,Aceite,Aceites,3,2.0,6.0
+2024-09-02,Arroz,Granos,4,1.2,4.8
+2024-08-15,Carne molida,Carnes,6,4.0,24.0
+2024-09-21,Frijoles,Granos,3,1.0,3.0
+2024-08-10,Carne molida,Carnes,4,4.0,16.0
+2024-10-20,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-20,Arroz,Granos,3,1.2,3.6
+2024-11-12,Leche,Lácteos,6,0.9,5.4
+2024-11-30,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-11,Yogurt,Lácteos,6,1.1,6.6
+2024-08-16,Pan,Panadería,1,0.5,0.5
+2024-11-06,Queso,Lácteos,2,2.5,5.0
+2024-10-17,Pollo,Carnes,2,3.5,7.0
+2024-11-10,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-29,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-18,Queso,Lácteos,2,2.5,5.0
+2024-11-25,Carne molida,Carnes,1,4.0,4.0
+2024-09-08,Carne molida,Carnes,4,4.0,16.0
+2024-09-24,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-12,Yogurt,Lácteos,1,1.1,1.1
+2024-08-08,Jugo natural,Bebidas,2,1.8,3.6
+2024-12-01,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-30,Frijoles,Granos,6,1.0,6.0
+2024-10-20,Pan,Panadería,2,0.5,1.0
+2024-09-03,Pan,Panadería,4,0.5,2.0
+2024-08-21,Frijoles,Granos,1,1.0,1.0
+2024-08-23,Pan,Panadería,3,0.5,1.5
+2024-08-10,Queso,Lácteos,2,2.5,5.0
+2024-08-01,Leche,Lácteos,2,0.9,1.8
+2024-09-27,Pollo,Carnes,3,3.5,10.5
+2024-09-30,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-05,Yogurt,Lácteos,2,1.1,2.2
+2024-09-06,Pan,Panadería,2,0.5,1.0
+2024-10-29,Yogurt,Lácteos,2,1.1,2.2
+2024-08-10,Carne molida,Carnes,2,4.0,8.0
+2024-11-27,Pan,Panadería,4,0.5,2.0
+2024-11-09,Yogurt,Lácteos,3,1.1,3.3
+2024-10-24,Jugo natural,Bebidas,6,1.8,10.8
+2024-09-24,Pan,Panadería,2,0.5,1.0
+2024-10-09,Frijoles,Granos,4,1.0,4.0
+2024-10-22,Pan,Panadería,3,0.5,1.5
+2024-11-25,Leche,Lácteos,4,0.9,3.6
+2024-11-14,Yogurt,Lácteos,4,1.1,4.4
+2024-08-10,Leche,Lácteos,4,0.9,3.6
+2024-08-22,Arroz,Granos,1,1.2,1.2
+2024-10-16,Yogurt,Lácteos,4,1.1,4.4
+2024-11-26,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-26,Yogurt,Lácteos,2,1.1,2.2
+2024-09-29,Frijoles,Granos,3,1.0,3.0
+2024-10-29,Yogurt,Lácteos,4,1.1,4.4
+2024-11-29,Pollo,Carnes,1,3.5,3.5
+2024-10-04,Yogurt,Lácteos,3,1.1,3.3
+2024-10-03,Queso,Lácteos,1,2.5,2.5
+2024-08-11,Carne molida,Carnes,1,4.0,4.0
+2024-08-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-03,Pollo,Carnes,2,3.5,7.0
+2024-10-17,Aceite,Aceites,1,2.0,2.0
+2024-08-04,Yogurt,Lácteos,2,1.1,2.2
+2024-08-30,Frijoles,Granos,3,1.0,3.0
+2024-10-15,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-06,Arroz,Granos,5,1.2,6.0
+2024-10-13,Yogurt,Lácteos,3,1.1,3.3
+2024-11-06,Arroz,Granos,3,1.2,3.6
+2024-09-30,Leche,Lácteos,3,0.9,2.7
+2024-10-23,Queso,Lácteos,1,2.5,2.5
+2024-11-26,Carne molida,Carnes,3,4.0,12.0
+2024-08-24,Yogurt,Lácteos,4,1.1,4.4
+2024-09-25,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-12,Carne molida,Carnes,7,4.0,28.0
+2024-09-14,Carne molida,Carnes,2,4.0,8.0
+2024-09-12,Pollo,Carnes,4,3.5,14.0
+2024-10-25,Aceite,Aceites,2,2.0,4.0
+2024-11-18,Frijoles,Granos,2,1.0,2.0
+2024-09-12,Leche,Lácteos,4,0.9,3.6
+2024-10-28,Pollo,Carnes,4,3.5,14.0
+2024-09-06,Carne molida,Carnes,4,4.0,16.0
+2024-11-13,Pollo,Carnes,2,3.5,7.0
+2024-08-05,Queso,Lácteos,7,2.5,17.5
+2024-08-12,Carne molida,Carnes,1,4.0,4.0
+2024-09-02,Aceite,Aceites,2,2.0,4.0
+2024-08-15,Aceite,Aceites,5,2.0,10.0
+2024-11-19,Pollo,Carnes,1,3.5,3.5
+2024-11-14,Queso,Lácteos,6,2.5,15.0
+2024-10-24,Arroz,Granos,3,1.2,3.6
+2024-09-29,Queso,Lácteos,2,2.5,5.0
+2024-08-07,Pollo,Carnes,1,3.5,3.5
+2024-10-06,Pan,Panadería,1,0.5,0.5
+2024-10-19,Aceite,Aceites,5,2.0,10.0
+2024-10-20,Carne molida,Carnes,3,4.0,12.0
+2024-11-06,Carne molida,Carnes,3,4.0,12.0
+2024-08-27,Arroz,Granos,2,1.2,2.4
+2024-10-10,Yogurt,Lácteos,1,1.1,1.1
+2024-11-27,Leche,Lácteos,3,0.9,2.7
+2024-09-26,Yogurt,Lácteos,2,1.1,2.2
+2024-08-16,Carne molida,Carnes,4,4.0,16.0
+2024-10-20,Arroz,Granos,1,1.2,1.2
+2024-11-11,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-30,Pan,Panadería,2,0.5,1.0
+2024-09-09,Leche,Lácteos,5,0.9,4.5
+2024-08-02,Queso,Lácteos,4,2.5,10.0
+2024-09-22,Queso,Lácteos,3,2.5,7.5
+2024-08-29,Frijoles,Granos,3,1.0,3.0
+2024-09-29,Frijoles,Granos,3,1.0,3.0
+2024-10-22,Frijoles,Granos,3,1.0,3.0
+2024-10-03,Leche,Lácteos,3,0.9,2.7
+2024-10-05,Yogurt,Lácteos,2,1.1,2.2
+2024-09-23,Yogurt,Lácteos,1,1.1,1.1
+2024-09-30,Carne molida,Carnes,5,4.0,20.0
+2024-09-28,Pan,Panadería,1,0.5,0.5
+2024-08-19,Queso,Lácteos,4,2.5,10.0
+2024-08-25,Pollo,Carnes,2,3.5,7.0
+2024-10-05,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-19,Leche,Lácteos,3,0.9,2.7
+2024-09-05,Frijoles,Granos,6,1.0,6.0
+2024-09-13,Pollo,Carnes,2,3.5,7.0
+2024-09-04,Queso,Lácteos,2,2.5,5.0
+2024-09-06,Arroz,Granos,6,1.2,7.2
+2024-11-16,Yogurt,Lácteos,2,1.1,2.2
+2024-10-14,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-19,Carne molida,Carnes,4,4.0,16.0
+2024-09-27,Leche,Lácteos,1,0.9,0.9
+2024-10-01,Queso,Lácteos,2,2.5,5.0
+2024-09-12,Aceite,Aceites,1,2.0,2.0
+2024-11-06,Queso,Lácteos,1,2.5,2.5
+2024-09-18,Queso,Lácteos,4,2.5,10.0
+2024-11-28,Carne molida,Carnes,4,4.0,16.0
+2024-11-20,Aceite,Aceites,2,2.0,4.0
+2024-10-29,Pan,Panadería,3,0.5,1.5
+2024-10-13,Pan,Panadería,1,0.5,0.5
+2024-08-30,Pollo,Carnes,1,3.5,3.5
+2024-08-06,Pollo,Carnes,5,3.5,17.5
+2024-11-04,Aceite,Aceites,2,2.0,4.0
+2024-10-30,Carne molida,Carnes,5,4.0,20.0
+2024-09-19,Pollo,Carnes,5,3.5,17.5
+2024-10-03,Leche,Lácteos,5,0.9,4.5
+2024-08-17,Arroz,Granos,3,1.2,3.6
+2024-10-15,Queso,Lácteos,3,2.5,7.5
+2024-11-20,Aceite,Aceites,4,2.0,8.0
+2024-11-20,Frijoles,Granos,3,1.0,3.0
+2024-08-13,Carne molida,Carnes,6,4.0,24.0
+2024-11-25,Queso,Lácteos,6,2.5,15.0
+2024-08-02,Carne molida,Carnes,2,4.0,8.0
+2024-09-22,Leche,Lácteos,3,0.9,2.7
+2024-08-10,Leche,Lácteos,2,0.9,1.8
+2024-11-09,Carne molida,Carnes,3,4.0,12.0
+2024-09-13,Yogurt,Lácteos,5,1.1,5.5
+2024-10-28,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-23,Pollo,Carnes,5,3.5,17.5
+2024-11-18,Frijoles,Granos,2,1.0,2.0
+2024-11-18,Aceite,Aceites,4,2.0,8.0
+2024-09-18,Queso,Lácteos,3,2.5,7.5
+2024-10-20,Aceite,Aceites,4,2.0,8.0
+2024-11-20,Carne molida,Carnes,4,4.0,16.0
+2024-08-05,Queso,Lácteos,2,2.5,5.0
+2024-08-09,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-20,Pan,Panadería,2,0.5,1.0
+2024-08-30,Yogurt,Lácteos,4,1.1,4.4
+2024-09-25,Frijoles,Granos,5,1.0,5.0
+2024-11-06,Frijoles,Granos,3,1.0,3.0
+2024-09-26,Frijoles,Granos,4,1.0,4.0
+2024-10-28,Leche,Lácteos,4,0.9,3.6
+2024-11-24,Yogurt,Lácteos,4,1.1,4.4
+2024-08-06,Arroz,Granos,4,1.2,4.8
+2024-11-10,Aceite,Aceites,2,2.0,4.0
+2024-09-07,Arroz,Granos,1,1.2,1.2
+2024-09-17,Aceite,Aceites,5,2.0,10.0
+2024-08-19,Pollo,Carnes,2,3.5,7.0
+2024-10-07,Pan,Panadería,3,0.5,1.5
+2024-10-12,Pollo,Carnes,2,3.5,7.0
+2024-08-22,Leche,Lácteos,6,0.9,5.4
+2024-08-11,Leche,Lácteos,2,0.9,1.8
+2024-11-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-19,Pollo,Carnes,3,3.5,10.5
+2024-10-03,Pan,Panadería,2,0.5,1.0
+2024-08-19,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-29,Pan,Panadería,1,0.5,0.5
+2024-09-28,Yogurt,Lácteos,3,1.1,3.3
+2024-10-25,Yogurt,Lácteos,3,1.1,3.3
+2024-11-24,Arroz,Granos,4,1.2,4.8
+2024-11-24,Carne molida,Carnes,4,4.0,16.0
+2024-10-26,Yogurt,Lácteos,1,1.1,1.1
+2024-08-21,Queso,Lácteos,4,2.5,10.0
+2024-09-26,Frijoles,Granos,2,1.0,2.0
+2024-10-15,Aceite,Aceites,2,2.0,4.0
+2024-10-21,Yogurt,Lácteos,4,1.1,4.4
+2024-10-28,Pollo,Carnes,1,3.5,3.5
+2024-09-28,Yogurt,Lácteos,2,1.1,2.2
+2024-08-26,Yogurt,Lácteos,3,1.1,3.3
+2024-11-18,Pollo,Carnes,3,3.5,10.5
+2024-08-14,Carne molida,Carnes,2,4.0,8.0
+2024-09-18,Pan,Panadería,2,0.5,1.0
+2024-09-15,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-07,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-03,Yogurt,Lácteos,3,1.1,3.3
+2024-09-05,Pollo,Carnes,2,3.5,7.0
+2024-10-12,Arroz,Granos,5,1.2,6.0
+2024-11-25,Arroz,Granos,2,1.2,2.4
+2024-11-04,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-15,Carne molida,Carnes,2,4.0,8.0
+2024-11-08,Yogurt,Lácteos,4,1.1,4.4
+2024-10-17,Pan,Panadería,1,0.5,0.5
+2024-08-29,Aceite,Aceites,2,2.0,4.0
+2024-10-19,Pan,Panadería,3,0.5,1.5
+2024-10-26,Yogurt,Lácteos,2,1.1,2.2
+2024-10-20,Leche,Lácteos,3,0.9,2.7
+2024-11-24,Frijoles,Granos,3,1.0,3.0
+2024-09-09,Arroz,Granos,3,1.2,3.6
+2024-08-05,Carne molida,Carnes,5,4.0,20.0
+2024-09-16,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-12,Leche,Lácteos,4,0.9,3.6
+2024-09-11,Yogurt,Lácteos,3,1.1,3.3
+2024-08-23,Pollo,Carnes,2,3.5,7.0
+2024-08-17,Pan,Panadería,3,0.5,1.5
+2024-11-21,Queso,Lácteos,5,2.5,12.5
+2024-10-07,Aceite,Aceites,3,2.0,6.0
+2024-11-25,Queso,Lácteos,1,2.5,2.5
+2024-11-15,Yogurt,Lácteos,4,1.1,4.4
+2024-09-02,Leche,Lácteos,1,0.9,0.9
+2024-11-12,Carne molida,Carnes,6,4.0,24.0
+2024-11-04,Yogurt,Lácteos,3,1.1,3.3
+2024-11-11,Aceite,Aceites,4,2.0,8.0
+2024-09-29,Frijoles,Granos,3,1.0,3.0
+2024-08-19,Frijoles,Granos,6,1.0,6.0
+2024-11-19,Pan,Panadería,3,0.5,1.5
+2024-11-17,Pollo,Carnes,3,3.5,10.5
+2024-09-16,Queso,Lácteos,2,2.5,5.0
+2024-11-10,Frijoles,Granos,2,1.0,2.0
+2024-08-02,Pollo,Carnes,7,3.5,24.5
+2024-10-08,Yogurt,Lácteos,2,1.1,2.2
+2024-09-28,Frijoles,Granos,3,1.0,3.0
+2024-10-26,Aceite,Aceites,1,2.0,2.0
+2024-10-14,Yogurt,Lácteos,5,1.1,5.5
+2024-11-14,Pollo,Carnes,3,3.5,10.5
+2024-08-14,Aceite,Aceites,4,2.0,8.0
+2024-09-30,Pan,Panadería,4,0.5,2.0
+2024-10-19,Arroz,Granos,4,1.2,4.8
+2024-09-11,Queso,Lácteos,3,2.5,7.5
+2024-08-29,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-21,Frijoles,Granos,3,1.0,3.0
+2024-11-25,Carne molida,Carnes,4,4.0,16.0
+2024-10-23,Yogurt,Lácteos,4,1.1,4.4
+2024-08-15,Pollo,Carnes,4,3.5,14.0
+2024-08-06,Leche,Lácteos,3,0.9,2.7
+2024-09-08,Arroz,Granos,4,1.2,4.8
+2024-08-15,Carne molida,Carnes,3,4.0,12.0
+2024-08-31,Frijoles,Granos,1,1.0,1.0
+2024-08-18,Queso,Lácteos,5,2.5,12.5
+2024-09-28,Pollo,Carnes,4,3.5,14.0
+2024-10-25,Aceite,Aceites,3,2.0,6.0
+2024-09-23,Queso,Lácteos,4,2.5,10.0
+2024-11-04,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-22,Leche,Lácteos,2,0.9,1.8
+2024-10-23,Pollo,Carnes,5,3.5,17.5
+2024-11-15,Frijoles,Granos,4,1.0,4.0
+2024-10-18,Carne molida,Carnes,5,4.0,20.0
+2024-11-29,Pollo,Carnes,2,3.5,7.0
+2024-08-05,Yogurt,Lácteos,3,1.1,3.3
+2024-08-28,Aceite,Aceites,2,2.0,4.0
+2024-09-26,Carne molida,Carnes,3,4.0,12.0
+2024-11-18,Pan,Panadería,2,0.5,1.0
+2024-08-13,Aceite,Aceites,2,2.0,4.0
+2024-10-09,Aceite,Aceites,6,2.0,12.0
+2024-08-08,Aceite,Aceites,1,2.0,2.0
+2024-09-05,Pollo,Carnes,3,3.5,10.5
+2024-08-16,Pan,Panadería,5,0.5,2.5
+2024-08-12,Carne molida,Carnes,3,4.0,12.0
+2024-10-22,Pan,Panadería,1,0.5,0.5
+2024-08-03,Jugo natural,Bebidas,6,1.8,10.8
+2024-11-09,Arroz,Granos,3,1.2,3.6
+2024-09-01,Aceite,Aceites,5,2.0,10.0
+2024-11-09,Leche,Lácteos,4,0.9,3.6
+2024-08-27,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-15,Frijoles,Granos,3,1.0,3.0
+2024-08-27,Queso,Lácteos,6,2.5,15.0
+2024-08-28,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-12,Pan,Panadería,2,0.5,1.0
+2024-11-09,Leche,Lácteos,2,0.9,1.8
+2024-08-01,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-18,Yogurt,Lácteos,3,1.1,3.3
+2024-08-17,Leche,Lácteos,2,0.9,1.8
+2024-09-02,Queso,Lácteos,1,2.5,2.5
+2024-08-15,Leche,Lácteos,2,0.9,1.8
+2024-08-17,Arroz,Granos,1,1.2,1.2
+2024-09-15,Arroz,Granos,4,1.2,4.8
+2024-10-15,Pan,Panadería,3,0.5,1.5
+2024-08-03,Aceite,Aceites,1,2.0,2.0
+2024-09-03,Leche,Lácteos,2,0.9,1.8
+2024-08-17,Arroz,Granos,4,1.2,4.8
+2024-10-07,Pollo,Carnes,3,3.5,10.5
+2024-11-04,Frijoles,Granos,2,1.0,2.0
+2024-09-30,Frijoles,Granos,4,1.0,4.0
+2024-11-08,Carne molida,Carnes,5,4.0,20.0
+2024-10-05,Aceite,Aceites,1,2.0,2.0
+2024-08-14,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-04,Carne molida,Carnes,2,4.0,8.0
+2024-11-30,Pan,Panadería,3,0.5,1.5
+2024-08-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-08,Queso,Lácteos,1,2.5,2.5
+2024-10-22,Carne molida,Carnes,3,4.0,12.0
+2024-08-08,Arroz,Granos,1,1.2,1.2
+2024-11-17,Carne molida,Carnes,5,4.0,20.0
+2024-09-24,Pollo,Carnes,2,3.5,7.0
+2024-10-02,Frijoles,Granos,6,1.0,6.0
+2024-08-10,Carne molida,Carnes,2,4.0,8.0
+2024-09-11,Frijoles,Granos,2,1.0,2.0
+2024-08-19,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-17,Frijoles,Granos,2,1.0,2.0
+2024-10-19,Yogurt,Lácteos,3,1.1,3.3
+2024-10-10,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-18,Aceite,Aceites,4,2.0,8.0
+2024-10-07,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-28,Yogurt,Lácteos,3,1.1,3.3
+2024-10-17,Queso,Lácteos,6,2.5,15.0
+2024-08-13,Pollo,Carnes,3,3.5,10.5
+2024-11-18,Frijoles,Granos,4,1.0,4.0
+2024-11-01,Queso,Lácteos,2,2.5,5.0
+2024-09-25,Pan,Panadería,3,0.5,1.5
+2024-11-22,Carne molida,Carnes,1,4.0,4.0
+2024-09-22,Pan,Panadería,4,0.5,2.0
+2024-11-14,Aceite,Aceites,2,2.0,4.0
+2024-09-21,Carne molida,Carnes,4,4.0,16.0
+2024-11-02,Pollo,Carnes,4,3.5,14.0
+2024-09-10,Frijoles,Granos,2,1.0,2.0
+2024-09-10,Pollo,Carnes,4,3.5,14.0
+2024-09-17,Yogurt,Lácteos,1,1.1,1.1
+2024-10-27,Leche,Lácteos,2,0.9,1.8
+2024-08-09,Carne molida,Carnes,1,4.0,4.0
+2024-11-15,Frijoles,Granos,3,1.0,3.0
+2024-08-12,Frijoles,Granos,2,1.0,2.0
+2024-08-13,Pollo,Carnes,5,3.5,17.5
+2024-11-12,Aceite,Aceites,4,2.0,8.0
+2024-10-11,Leche,Lácteos,2,0.9,1.8
+2024-10-15,Arroz,Granos,2,1.2,2.4
+2024-10-11,Queso,Lácteos,5,2.5,12.5
+2024-10-25,Aceite,Aceites,2,2.0,4.0
+2024-09-22,Frijoles,Granos,2,1.0,2.0
+2024-11-20,Aceite,Aceites,2,2.0,4.0
+2024-11-20,Pollo,Carnes,4,3.5,14.0
+2024-09-06,Arroz,Granos,2,1.2,2.4
+2024-09-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-14,Aceite,Aceites,6,2.0,12.0
+2024-10-04,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-20,Pan,Panadería,3,0.5,1.5
+2024-08-29,Carne molida,Carnes,6,4.0,24.0
+2024-09-14,Frijoles,Granos,2,1.0,2.0
+2024-09-17,Queso,Lácteos,5,2.5,12.5
+2024-11-06,Frijoles,Granos,5,1.0,5.0
+2024-10-13,Yogurt,Lácteos,2,1.1,2.2
+2024-11-12,Pan,Panadería,3,0.5,1.5
+2024-11-17,Pollo,Carnes,4,3.5,14.0
+2024-11-07,Queso,Lácteos,7,2.5,17.5
+2024-10-18,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-04,Queso,Lácteos,5,2.5,12.5
+2024-11-27,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-04,Yogurt,Lácteos,2,1.1,2.2
+2024-09-04,Leche,Lácteos,5,0.9,4.5
+2024-11-26,Yogurt,Lácteos,2,1.1,2.2
+2024-09-14,Aceite,Aceites,3,2.0,6.0
+2024-08-24,Arroz,Granos,2,1.2,2.4
+2024-10-12,Leche,Lácteos,5,0.9,4.5
+2024-08-09,Pollo,Carnes,4,3.5,14.0
+2024-11-03,Leche,Lácteos,7,0.9,6.3
+2024-08-12,Arroz,Granos,2,1.2,2.4
+2024-08-28,Queso,Lácteos,3,2.5,7.5
+2024-09-23,Pollo,Carnes,2,3.5,7.0
+2024-09-13,Carne molida,Carnes,3,4.0,12.0
+2024-09-17,Leche,Lácteos,4,0.9,3.6
+2024-11-01,Yogurt,Lácteos,4,1.1,4.4
+2024-11-08,Aceite,Aceites,1,2.0,2.0
+2024-10-16,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-22,Frijoles,Granos,2,1.0,2.0
+2024-08-20,Arroz,Granos,5,1.2,6.0
+2024-11-05,Leche,Lácteos,2,0.9,1.8
+2024-08-07,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-04,Frijoles,Granos,1,1.0,1.0
+2024-10-24,Carne molida,Carnes,4,4.0,16.0
+2024-10-02,Pollo,Carnes,2,3.5,7.0
+2024-09-26,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-04,Pollo,Carnes,5,3.5,17.5
+2024-11-05,Pan,Panadería,3,0.5,1.5
+2024-08-15,Queso,Lácteos,2,2.5,5.0
+2024-09-25,Aceite,Aceites,2,2.0,4.0
+2024-09-06,Frijoles,Granos,3,1.0,3.0
+2024-10-02,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-25,Queso,Lácteos,3,2.5,7.5
+2024-08-06,Yogurt,Lácteos,2,1.1,2.2
+2024-09-20,Pan,Panadería,3,0.5,1.5
+2024-08-08,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-27,Arroz,Granos,2,1.2,2.4
+2024-11-30,Yogurt,Lácteos,5,1.1,5.5
+2024-11-07,Pan,Panadería,4,0.5,2.0
+2024-11-06,Leche,Lácteos,3,0.9,2.7
+2024-09-07,Yogurt,Lácteos,3,1.1,3.3
+2024-08-16,Aceite,Aceites,2,2.0,4.0
+2024-10-03,Arroz,Granos,6,1.2,7.2
+2024-08-23,Pollo,Carnes,1,3.5,3.5
+2024-09-18,Leche,Lácteos,3,0.9,2.7
+2024-10-30,Queso,Lácteos,4,2.5,10.0
+2024-10-04,Pan,Panadería,2,0.5,1.0
+2024-11-15,Queso,Lácteos,3,2.5,7.5
+2024-08-10,Aceite,Aceites,5,2.0,10.0
+2024-11-19,Pollo,Carnes,4,3.5,14.0
+2024-09-25,Arroz,Granos,3,1.2,3.6
+2024-09-28,Arroz,Granos,2,1.2,2.4
+2024-11-19,Frijoles,Granos,4,1.0,4.0
+2024-10-13,Aceite,Aceites,3,2.0,6.0
+2024-10-13,Pollo,Carnes,2,3.5,7.0
+2024-10-30,Pollo,Carnes,1,3.5,3.5
+2024-09-07,Pollo,Carnes,1,3.5,3.5
+2024-09-21,Frijoles,Granos,3,1.0,3.0
+2024-09-11,Arroz,Granos,1,1.2,1.2
+2024-11-11,Leche,Lácteos,2,0.9,1.8
+2024-09-28,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-12,Aceite,Aceites,1,2.0,2.0
+2024-11-17,Pollo,Carnes,3,3.5,10.5
+2024-09-01,Frijoles,Granos,3,1.0,3.0
+2024-10-15,Pollo,Carnes,5,3.5,17.5
+2024-10-07,Pollo,Carnes,5,3.5,17.5
+2024-09-20,Frijoles,Granos,1,1.0,1.0
+2024-11-04,Yogurt,Lácteos,3,1.1,3.3
+2024-08-29,Aceite,Aceites,2,2.0,4.0
+2024-11-08,Aceite,Aceites,3,2.0,6.0
+2024-08-10,Leche,Lácteos,2,0.9,1.8
+2024-10-21,Queso,Lácteos,1,2.5,2.5
+2024-10-07,Frijoles,Granos,5,1.0,5.0
+2024-08-25,Queso,Lácteos,5,2.5,12.5
+2024-09-14,Aceite,Aceites,2,2.0,4.0
+2024-08-31,Leche,Lácteos,2,0.9,1.8
+2024-08-19,Frijoles,Granos,4,1.0,4.0
+2024-08-26,Yogurt,Lácteos,7,1.1,7.7
+2024-10-17,Leche,Lácteos,2,0.9,1.8
+2024-11-06,Leche,Lácteos,2,0.9,1.8
+2024-08-23,Frijoles,Granos,4,1.0,4.0
+2024-09-29,Carne molida,Carnes,4,4.0,16.0
+2024-11-06,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-27,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-22,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-11,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-20,Aceite,Aceites,3,2.0,6.0
+2024-08-09,Carne molida,Carnes,3,4.0,12.0
+2024-09-26,Carne molida,Carnes,3,4.0,12.0
+2024-11-10,Yogurt,Lácteos,3,1.1,3.3
+2024-10-15,Yogurt,Lácteos,3,1.1,3.3
+2024-09-15,Arroz,Granos,2,1.2,2.4
+2024-08-10,Queso,Lácteos,2,2.5,5.0
+2024-09-29,Yogurt,Lácteos,6,1.1,6.6
+2024-08-05,Carne molida,Carnes,4,4.0,16.0
+2024-09-17,Arroz,Granos,4,1.2,4.8
+2024-08-10,Yogurt,Lácteos,2,1.1,2.2
+2024-10-18,Frijoles,Granos,3,1.0,3.0
+2024-10-04,Jugo natural,Bebidas,8,1.8,14.4
+2024-09-29,Pollo,Carnes,3,3.5,10.5
+2024-10-10,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-27,Arroz,Granos,4,1.2,4.8
+2024-10-23,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-11,Pan,Panadería,3,0.5,1.5
+2024-09-30,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-20,Queso,Lácteos,3,2.5,7.5
+2024-09-27,Arroz,Granos,2,1.2,2.4
+2024-11-12,Frijoles,Granos,3,1.0,3.0
+2024-10-31,Aceite,Aceites,2,2.0,4.0
+2024-10-04,Frijoles,Granos,3,1.0,3.0
+2024-08-06,Leche,Lácteos,3,0.9,2.7
+2024-10-30,Pan,Panadería,6,0.5,3.0
+2024-09-26,Carne molida,Carnes,3,4.0,12.0
+2024-10-06,Queso,Lácteos,3,2.5,7.5
+2024-08-21,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-17,Aceite,Aceites,2,2.0,4.0
+2024-09-19,Yogurt,Lácteos,1,1.1,1.1
+2024-11-08,Pollo,Carnes,1,3.5,3.5
+2024-10-26,Aceite,Aceites,3,2.0,6.0
+2024-08-07,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-09,Aceite,Aceites,3,2.0,6.0
+2024-08-13,Aceite,Aceites,6,2.0,12.0
+2024-10-26,Queso,Lácteos,2,2.5,5.0
+2024-09-06,Pollo,Carnes,2,3.5,7.0
+2024-11-01,Yogurt,Lácteos,3,1.1,3.3
+2024-11-20,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-12,Leche,Lácteos,1,0.9,0.9
+2024-10-14,Frijoles,Granos,5,1.0,5.0
+2024-11-26,Leche,Lácteos,4,0.9,3.6
+2024-09-09,Aceite,Aceites,2,2.0,4.0
+2024-08-17,Pollo,Carnes,3,3.5,10.5
+2024-10-30,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-09,Frijoles,Granos,1,1.0,1.0
+2024-09-18,Queso,Lácteos,2,2.5,5.0
+2024-11-13,Aceite,Aceites,3,2.0,6.0
+2024-10-25,Leche,Lácteos,3,0.9,2.7
+2024-08-12,Queso,Lácteos,2,2.5,5.0
+2024-10-05,Pollo,Carnes,1,3.5,3.5
+2024-08-03,Aceite,Aceites,4,2.0,8.0
+2024-09-09,Aceite,Aceites,4,2.0,8.0
+2024-11-30,Leche,Lácteos,4,0.9,3.6
+2024-09-13,Pan,Panadería,6,0.5,3.0
+2024-08-25,Carne molida,Carnes,3,4.0,12.0
+2024-08-18,Pan,Panadería,3,0.5,1.5
+2024-08-10,Leche,Lácteos,4,0.9,3.6
+2024-11-17,Yogurt,Lácteos,3,1.1,3.3
+2024-10-04,Frijoles,Granos,3,1.0,3.0
+2024-11-15,Queso,Lácteos,3,2.5,7.5
+2024-08-05,Queso,Lácteos,7,2.5,17.5
+2024-11-21,Aceite,Aceites,5,2.0,10.0
+2024-08-17,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-18,Jugo natural,Bebidas,7,1.8,12.6
+2024-08-21,Leche,Lácteos,2,0.9,1.8
+2024-11-15,Leche,Lácteos,4,0.9,3.6
+2024-11-12,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-01,Leche,Lácteos,4,0.9,3.6
+2024-08-06,Carne molida,Carnes,5,4.0,20.0
+2024-09-16,Pollo,Carnes,4,3.5,14.0
+2024-09-26,Pan,Panadería,4,0.5,2.0
+2024-09-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-30,Carne molida,Carnes,5,4.0,20.0
+2024-08-31,Queso,Lácteos,5,2.5,12.5
+2024-11-12,Yogurt,Lácteos,2,1.1,2.2
+2024-11-24,Carne molida,Carnes,3,4.0,12.0
+2024-09-17,Pan,Panadería,3,0.5,1.5
+2024-09-26,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-07,Carne molida,Carnes,3,4.0,12.0
+2024-11-08,Yogurt,Lácteos,3,1.1,3.3
+2024-10-04,Pollo,Carnes,5,3.5,17.5
+2024-09-23,Queso,Lácteos,2,2.5,5.0
+2024-11-13,Leche,Lácteos,2,0.9,1.8
+2024-11-11,Pan,Panadería,2,0.5,1.0
+2024-08-18,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-07,Yogurt,Lácteos,2,1.1,2.2
+2024-11-20,Carne molida,Carnes,2,4.0,8.0
+2024-10-10,Aceite,Aceites,4,2.0,8.0
+2024-10-31,Frijoles,Granos,3,1.0,3.0
+2024-11-17,Queso,Lácteos,2,2.5,5.0
+2024-09-06,Frijoles,Granos,2,1.0,2.0
+2024-11-06,Frijoles,Granos,4,1.0,4.0
+2024-09-04,Leche,Lácteos,1,0.9,0.9
+2024-11-24,Carne molida,Carnes,3,4.0,12.0
+2024-08-19,Queso,Lácteos,4,2.5,10.0
+2024-08-12,Pollo,Carnes,1,3.5,3.5
+2024-11-13,Pan,Panadería,4,0.5,2.0
+2024-11-22,Carne molida,Carnes,3,4.0,12.0
+2024-11-28,Aceite,Aceites,4,2.0,8.0
+2024-09-23,Arroz,Granos,3,1.2,3.6
+2024-09-20,Arroz,Granos,3,1.2,3.6
+2024-09-17,Queso,Lácteos,4,2.5,10.0
+2024-09-19,Pan,Panadería,3,0.5,1.5
+2024-09-17,Frijoles,Granos,4,1.0,4.0
+2024-08-04,Pan,Panadería,3,0.5,1.5
+2024-11-28,Aceite,Aceites,1,2.0,2.0
+2024-11-16,Frijoles,Granos,2,1.0,2.0
+2024-11-10,Aceite,Aceites,4,2.0,8.0
+2024-08-18,Leche,Lácteos,3,0.9,2.7
+2024-09-06,Arroz,Granos,4,1.2,4.8
+2024-10-29,Carne molida,Carnes,2,4.0,8.0
+2024-11-06,Leche,Lácteos,3,0.9,2.7
+2024-09-27,Carne molida,Carnes,1,4.0,4.0
+2024-08-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-03,Frijoles,Granos,2,1.0,2.0
+2024-08-28,Yogurt,Lácteos,1,1.1,1.1
+2024-10-10,Leche,Lácteos,5,0.9,4.5
+2024-10-07,Jugo natural,Bebidas,7,1.8,12.6
+2024-08-15,Pollo,Carnes,5,3.5,17.5
+2024-08-31,Yogurt,Lácteos,4,1.1,4.4
+2024-08-16,Yogurt,Lácteos,2,1.1,2.2
+2024-08-31,Arroz,Granos,5,1.2,6.0
+2024-10-21,Pollo,Carnes,3,3.5,10.5
+2024-09-28,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-15,Frijoles,Granos,3,1.0,3.0
+2024-10-16,Carne molida,Carnes,1,4.0,4.0
+2024-08-03,Queso,Lácteos,3,2.5,7.5
+2024-10-13,Queso,Lácteos,3,2.5,7.5
+2024-10-31,Pan,Panadería,4,0.5,2.0
+2024-09-07,Leche,Lácteos,2,0.9,1.8
+2024-08-01,Pollo,Carnes,1,3.5,3.5
+2024-09-15,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-13,Pan,Panadería,4,0.5,2.0
+2024-08-24,Pollo,Carnes,2,3.5,7.0
+2024-10-07,Frijoles,Granos,2,1.0,2.0
+2024-08-09,Aceite,Aceites,3,2.0,6.0
+2024-10-09,Queso,Lácteos,6,2.5,15.0
+2024-11-09,Queso,Lácteos,5,2.5,12.5
+2024-10-10,Queso,Lácteos,3,2.5,7.5
+2024-09-19,Arroz,Granos,3,1.2,3.6
+2024-08-06,Carne molida,Carnes,6,4.0,24.0
+2024-09-17,Pollo,Carnes,2,3.5,7.0
+2024-11-04,Yogurt,Lácteos,3,1.1,3.3
+2024-09-15,Arroz,Granos,2,1.2,2.4
+2024-09-14,Frijoles,Granos,4,1.0,4.0
+2024-11-02,Pan,Panadería,1,0.5,0.5
+2024-11-07,Frijoles,Granos,1,1.0,1.0
+2024-11-03,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-18,Aceite,Aceites,2,2.0,4.0
+2024-09-15,Arroz,Granos,2,1.2,2.4
+2024-09-13,Queso,Lácteos,3,2.5,7.5
+2024-11-15,Leche,Lácteos,2,0.9,1.8
+2024-10-29,Carne molida,Carnes,3,4.0,12.0
+2024-10-20,Carne molida,Carnes,3,4.0,12.0
+2024-11-12,Leche,Lácteos,4,0.9,3.6
+2024-08-09,Leche,Lácteos,4,0.9,3.6
+2024-08-05,Carne molida,Carnes,2,4.0,8.0
+2024-08-26,Yogurt,Lácteos,2,1.1,2.2
+2024-11-10,Arroz,Granos,2,1.2,2.4
+2024-11-22,Pan,Panadería,3,0.5,1.5
+2024-09-10,Arroz,Granos,3,1.2,3.6
+2024-10-05,Yogurt,Lácteos,2,1.1,2.2
+2024-11-13,Pollo,Carnes,2,3.5,7.0
+2024-09-30,Queso,Lácteos,4,2.5,10.0
+2024-08-05,Yogurt,Lácteos,2,1.1,2.2
+2024-09-06,Pan,Panadería,6,0.5,3.0
+2024-11-19,Aceite,Aceites,3,2.0,6.0
+2024-11-19,Arroz,Granos,4,1.2,4.8
+2024-09-04,Aceite,Aceites,1,2.0,2.0
+2024-11-11,Frijoles,Granos,4,1.0,4.0
+2024-09-25,Aceite,Aceites,1,2.0,2.0
+2024-11-04,Pollo,Carnes,5,3.5,17.5
+2024-11-23,Carne molida,Carnes,2,4.0,8.0
+2024-09-13,Pollo,Carnes,3,3.5,10.5
+2024-10-03,Leche,Lácteos,4,0.9,3.6
+2024-09-17,Carne molida,Carnes,2,4.0,8.0
+2024-09-04,Queso,Lácteos,1,2.5,2.5
+2024-11-02,Frijoles,Granos,3,1.0,3.0
+2024-08-11,Pollo,Carnes,3,3.5,10.5
+2024-10-17,Pollo,Carnes,3,3.5,10.5
+2024-10-09,Leche,Lácteos,1,0.9,0.9
+2024-09-11,Yogurt,Lácteos,4,1.1,4.4
+2024-08-11,Frijoles,Granos,6,1.0,6.0
+2024-10-24,Aceite,Aceites,2,2.0,4.0
+2024-09-09,Yogurt,Lácteos,3,1.1,3.3
+2024-10-17,Carne molida,Carnes,3,4.0,12.0
+2024-08-22,Pollo,Carnes,7,3.5,24.5
+2024-09-14,Carne molida,Carnes,2,4.0,8.0
+2024-08-06,Carne molida,Carnes,3,4.0,12.0
+2024-10-18,Aceite,Aceites,2,2.0,4.0
+2024-09-05,Pollo,Carnes,2,3.5,7.0
+2024-08-10,Arroz,Granos,3,1.2,3.6
+2024-09-16,Pollo,Carnes,1,3.5,3.5
+2024-11-11,Queso,Lácteos,5,2.5,12.5
+2024-11-30,Leche,Lácteos,3,0.9,2.7
+2024-08-19,Arroz,Granos,4,1.2,4.8
+2024-10-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-05,Carne molida,Carnes,2,4.0,8.0
+2024-08-09,Leche,Lácteos,4,0.9,3.6
+2024-11-08,Pan,Panadería,3,0.5,1.5
+2024-09-16,Aceite,Aceites,3,2.0,6.0
+2024-11-30,Pollo,Carnes,1,3.5,3.5
+2024-08-05,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-30,Carne molida,Carnes,1,4.0,4.0
+2024-09-17,Aceite,Aceites,5,2.0,10.0
+2024-11-06,Carne molida,Carnes,6,4.0,24.0
+2024-10-13,Frijoles,Granos,1,1.0,1.0
+2024-10-07,Leche,Lácteos,1,0.9,0.9
+2024-09-20,Aceite,Aceites,7,2.0,14.0
+2024-10-23,Aceite,Aceites,1,2.0,2.0
+2024-09-01,Yogurt,Lácteos,2,1.1,2.2
+2024-08-04,Frijoles,Granos,1,1.0,1.0
+2024-10-03,Leche,Lácteos,4,0.9,3.6
+2024-09-19,Queso,Lácteos,3,2.5,7.5
+2024-08-16,Queso,Lácteos,4,2.5,10.0
+2024-11-08,Yogurt,Lácteos,6,1.1,6.6
+2024-10-30,Yogurt,Lácteos,6,1.1,6.6
+2024-08-28,Carne molida,Carnes,3,4.0,12.0
+2024-09-06,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-26,Carne molida,Carnes,7,4.0,28.0
+2024-08-18,Frijoles,Granos,4,1.0,4.0
+2024-09-27,Frijoles,Granos,3,1.0,3.0
+2024-11-24,Leche,Lácteos,4,0.9,3.6
+2024-08-12,Carne molida,Carnes,2,4.0,8.0
+2024-10-25,Aceite,Aceites,2,2.0,4.0
+2024-10-30,Aceite,Aceites,5,2.0,10.0
+2024-10-10,Frijoles,Granos,1,1.0,1.0
+2024-09-07,Queso,Lácteos,7,2.5,17.5
+2024-11-17,Yogurt,Lácteos,3,1.1,3.3
+2024-10-31,Leche,Lácteos,4,0.9,3.6
+2024-11-10,Leche,Lácteos,3,0.9,2.7
+2024-10-05,Aceite,Aceites,1,2.0,2.0
+2024-08-16,Pan,Panadería,2,0.5,1.0
+2024-11-10,Pan,Panadería,5,0.5,2.5
+2024-08-31,Leche,Lácteos,4,0.9,3.6
+2024-08-04,Carne molida,Carnes,4,4.0,16.0
+2024-10-10,Aceite,Aceites,6,2.0,12.0
+2024-09-17,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-11,Carne molida,Carnes,5,4.0,20.0
+2024-08-17,Queso,Lácteos,2,2.5,5.0
+2024-11-22,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-09,Frijoles,Granos,2,1.0,2.0
+2024-09-20,Yogurt,Lácteos,1,1.1,1.1
+2024-10-07,Carne molida,Carnes,2,4.0,8.0
+2024-11-07,Pollo,Carnes,5,3.5,17.5
+2024-11-14,Pollo,Carnes,3,3.5,10.5
+2024-08-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-10,Leche,Lácteos,2,0.9,1.8
+2024-09-27,Frijoles,Granos,2,1.0,2.0
+2024-10-27,Carne molida,Carnes,3,4.0,12.0
+2024-09-14,Queso,Lácteos,3,2.5,7.5
+2024-11-21,Leche,Lácteos,1,0.9,0.9
+2024-10-21,Queso,Lácteos,3,2.5,7.5
+2024-08-24,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-25,Leche,Lácteos,3,0.9,2.7
+2024-11-25,Queso,Lácteos,3,2.5,7.5
+2024-11-15,Arroz,Granos,1,1.2,1.2
+2024-10-06,Frijoles,Granos,3,1.0,3.0
+2024-09-08,Leche,Lácteos,1,0.9,0.9
+2024-08-21,Leche,Lácteos,4,0.9,3.6
+2024-11-28,Aceite,Aceites,5,2.0,10.0
+2024-09-14,Pan,Panadería,5,0.5,2.5
+2024-11-23,Queso,Lácteos,4,2.5,10.0
+2024-11-17,Yogurt,Lácteos,4,1.1,4.4
+2024-09-02,Frijoles,Granos,3,1.0,3.0
+2024-10-21,Pan,Panadería,1,0.5,0.5
+2024-09-05,Queso,Lácteos,3,2.5,7.5
+2024-10-20,Leche,Lácteos,4,0.9,3.6
+2024-10-18,Yogurt,Lácteos,2,1.1,2.2
+2024-08-12,Queso,Lácteos,3,2.5,7.5
+2024-10-22,Queso,Lácteos,2,2.5,5.0
+2024-10-15,Leche,Lácteos,2,0.9,1.8
+2024-08-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-24,Leche,Lácteos,4,0.9,3.6
+2024-11-01,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-13,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-06,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-11,Arroz,Granos,3,1.2,3.6
+2024-11-30,Arroz,Granos,3,1.2,3.6
+2024-09-03,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-07,Pan,Panadería,5,0.5,2.5
+2024-09-23,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-21,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-03,Arroz,Granos,2,1.2,2.4
+2024-09-07,Queso,Lácteos,3,2.5,7.5
+2024-10-01,Yogurt,Lácteos,3,1.1,3.3
+2024-11-12,Pan,Panadería,3,0.5,1.5
+2024-09-08,Pollo,Carnes,5,3.5,17.5
+2024-08-10,Carne molida,Carnes,1,4.0,4.0
+2024-08-21,Arroz,Granos,2,1.2,2.4
+2024-09-23,Carne molida,Carnes,5,4.0,20.0
+2024-09-29,Carne molida,Carnes,1,4.0,4.0
+2024-09-13,Pan,Panadería,1,0.5,0.5
+2024-08-19,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-19,Aceite,Aceites,1,2.0,2.0
+2024-11-02,Aceite,Aceites,2,2.0,4.0
+2024-09-21,Aceite,Aceites,1,2.0,2.0
+2024-11-06,Leche,Lácteos,2,0.9,1.8
+2024-10-05,Aceite,Aceites,3,2.0,6.0
+2024-08-14,Queso,Lácteos,3,2.5,7.5
+2024-08-31,Aceite,Aceites,2,2.0,4.0
+2024-08-16,Carne molida,Carnes,3,4.0,12.0
+2024-09-27,Yogurt,Lácteos,4,1.1,4.4
+2024-08-19,Pan,Panadería,1,0.5,0.5
+2024-08-07,Frijoles,Granos,4,1.0,4.0
+2024-11-30,Yogurt,Lácteos,2,1.1,2.2
+2024-11-19,Pollo,Carnes,5,3.5,17.5
+2024-09-23,Jugo natural,Bebidas,6,1.8,10.8
+2024-11-19,Pan,Panadería,2,0.5,1.0
+2024-11-13,Leche,Lácteos,2,0.9,1.8
+2024-11-28,Aceite,Aceites,5,2.0,10.0
+2024-11-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-25,Aceite,Aceites,2,2.0,4.0
+2024-10-03,Leche,Lácteos,4,0.9,3.6
+2024-09-29,Queso,Lácteos,3,2.5,7.5
+2024-11-21,Carne molida,Carnes,1,4.0,4.0
+2024-10-03,Yogurt,Lácteos,2,1.1,2.2
+2024-08-12,Arroz,Granos,3,1.2,3.6
+2024-10-04,Pollo,Carnes,2,3.5,7.0
+2024-08-31,Carne molida,Carnes,5,4.0,20.0
+2024-10-14,Pan,Panadería,4,0.5,2.0
+2024-08-07,Aceite,Aceites,1,2.0,2.0
+2024-09-06,Arroz,Granos,3,1.2,3.6
+2024-10-16,Carne molida,Carnes,5,4.0,20.0
+2024-09-06,Carne molida,Carnes,3,4.0,12.0
+2024-08-02,Queso,Lácteos,2,2.5,5.0
+2024-09-25,Frijoles,Granos,3,1.0,3.0
+2024-11-21,Leche,Lácteos,3,0.9,2.7
+2024-11-02,Yogurt,Lácteos,3,1.1,3.3
+2024-11-06,Aceite,Aceites,2,2.0,4.0
+2024-09-16,Pollo,Carnes,1,3.5,3.5
+2024-09-21,Arroz,Granos,4,1.2,4.8
+2024-10-12,Arroz,Granos,7,1.2,8.4
+2024-08-25,Queso,Lácteos,2,2.5,5.0
+2024-10-10,Aceite,Aceites,3,2.0,6.0
+2024-08-10,Yogurt,Lácteos,3,1.1,3.3
+2024-10-04,Pollo,Carnes,3,3.5,10.5
+2024-11-06,Carne molida,Carnes,3,4.0,12.0
+2024-09-05,Queso,Lácteos,3,2.5,7.5
+2024-10-27,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-16,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-13,Leche,Lácteos,4,0.9,3.6
+2024-09-17,Pollo,Carnes,1,3.5,3.5
+2024-10-11,Aceite,Aceites,3,2.0,6.0
+2024-11-05,Aceite,Aceites,3,2.0,6.0
+2024-08-26,Leche,Lácteos,4,0.9,3.6
+2024-10-05,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-04,Pollo,Carnes,3,3.5,10.5
+2024-08-06,Arroz,Granos,1,1.2,1.2
+2024-08-18,Arroz,Granos,4,1.2,4.8
+2024-11-11,Aceite,Aceites,4,2.0,8.0
+2024-10-06,Carne molida,Carnes,3,4.0,12.0
+2024-08-20,Carne molida,Carnes,1,4.0,4.0
+2024-11-23,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-18,Queso,Lácteos,3,2.5,7.5
+2024-11-28,Aceite,Aceites,5,2.0,10.0
+2024-09-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-20,Leche,Lácteos,4,0.9,3.6
+2024-11-03,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-15,Yogurt,Lácteos,5,1.1,5.5
+2024-10-04,Aceite,Aceites,1,2.0,2.0
+2024-10-08,Queso,Lácteos,3,2.5,7.5
+2024-10-30,Carne molida,Carnes,2,4.0,8.0
+2024-09-08,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-13,Carne molida,Carnes,2,4.0,8.0
+2024-09-17,Arroz,Granos,1,1.2,1.2
+2024-10-26,Aceite,Aceites,2,2.0,4.0
+2024-09-23,Frijoles,Granos,3,1.0,3.0
+2024-09-09,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-16,Arroz,Granos,6,1.2,7.2
+2024-09-03,Carne molida,Carnes,4,4.0,16.0
+2024-10-13,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-01,Pan,Panadería,5,0.5,2.5
+2024-10-14,Arroz,Granos,4,1.2,4.8
+2024-08-22,Carne molida,Carnes,3,4.0,12.0
+2024-10-20,Queso,Lácteos,2,2.5,5.0
+2024-11-08,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-19,Pollo,Carnes,5,3.5,17.5
+2024-08-05,Pan,Panadería,6,0.5,3.0
+2024-11-30,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-25,Frijoles,Granos,4,1.0,4.0
+2024-09-26,Arroz,Granos,3,1.2,3.6
+2024-09-23,Aceite,Aceites,2,2.0,4.0
+2024-09-22,Leche,Lácteos,3,0.9,2.7
+2024-09-22,Pan,Panadería,2,0.5,1.0
+2024-11-08,Queso,Lácteos,3,2.5,7.5
+2024-11-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-20,Carne molida,Carnes,1,4.0,4.0
+2024-10-30,Arroz,Granos,3,1.2,3.6
+2024-10-06,Leche,Lácteos,2,0.9,1.8
+2024-10-11,Pan,Panadería,3,0.5,1.5
+2024-10-24,Aceite,Aceites,4,2.0,8.0
+2024-10-07,Carne molida,Carnes,1,4.0,4.0
+2024-09-10,Pollo,Carnes,1,3.5,3.5
+2024-09-28,Leche,Lácteos,3,0.9,2.7
+2024-09-13,Queso,Lácteos,2,2.5,5.0
+2024-09-15,Queso,Lácteos,3,2.5,7.5
+2024-10-18,Yogurt,Lácteos,4,1.1,4.4
+2024-08-25,Carne molida,Carnes,3,4.0,12.0
+2024-09-05,Pan,Panadería,4,0.5,2.0
+2024-09-08,Queso,Lácteos,4,2.5,10.0
+2024-11-29,Pan,Panadería,4,0.5,2.0
+2024-11-07,Yogurt,Lácteos,3,1.1,3.3
+2024-10-30,Yogurt,Lácteos,1,1.1,1.1
+2024-10-28,Pan,Panadería,3,0.5,1.5
+2024-09-10,Carne molida,Carnes,3,4.0,12.0
+2024-09-14,Carne molida,Carnes,3,4.0,12.0
+2024-11-28,Queso,Lácteos,4,2.5,10.0
+2024-09-06,Yogurt,Lácteos,2,1.1,2.2
+2024-10-13,Frijoles,Granos,3,1.0,3.0
+2024-09-18,Queso,Lácteos,1,2.5,2.5
+2024-11-13,Pollo,Carnes,1,3.5,3.5
+2024-12-01,Aceite,Aceites,3,2.0,6.0
+2024-09-07,Leche,Lácteos,4,0.9,3.6
+2024-09-06,Arroz,Granos,2,1.2,2.4
+2024-09-14,Frijoles,Granos,2,1.0,2.0
+2024-10-23,Carne molida,Carnes,5,4.0,20.0
+2024-11-04,Yogurt,Lácteos,2,1.1,2.2
+2024-08-28,Carne molida,Carnes,3,4.0,12.0
+2024-11-14,Pan,Panadería,1,0.5,0.5
+2024-09-04,Queso,Lácteos,5,2.5,12.5
+2024-10-29,Queso,Lácteos,4,2.5,10.0
+2024-08-18,Yogurt,Lácteos,3,1.1,3.3
+2024-10-18,Frijoles,Granos,3,1.0,3.0
+2024-08-31,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-07,Pan,Panadería,4,0.5,2.0
+2024-08-29,Queso,Lácteos,2,2.5,5.0
+2024-08-07,Pan,Panadería,4,0.5,2.0
+2024-09-22,Frijoles,Granos,4,1.0,4.0
+2024-10-31,Aceite,Aceites,1,2.0,2.0
+2024-08-13,Carne molida,Carnes,5,4.0,20.0
+2024-08-01,Leche,Lácteos,5,0.9,4.5
+2024-11-27,Queso,Lácteos,3,2.5,7.5
+2024-09-22,Leche,Lácteos,3,0.9,2.7
+2024-10-01,Carne molida,Carnes,3,4.0,12.0
+2024-11-05,Pan,Panadería,1,0.5,0.5
+2024-09-11,Yogurt,Lácteos,3,1.1,3.3
+2024-10-22,Yogurt,Lácteos,3,1.1,3.3
+2024-11-25,Arroz,Granos,4,1.2,4.8
+2024-10-23,Frijoles,Granos,1,1.0,1.0
+2024-08-30,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-03,Queso,Lácteos,4,2.5,10.0
+2024-11-25,Arroz,Granos,4,1.2,4.8
+2024-09-23,Leche,Lácteos,5,0.9,4.5
+2024-11-28,Leche,Lácteos,1,0.9,0.9
+2024-11-16,Arroz,Granos,4,1.2,4.8
+2024-11-09,Pollo,Carnes,2,3.5,7.0
+2024-08-24,Carne molida,Carnes,3,4.0,12.0
+2024-11-21,Yogurt,Lácteos,6,1.1,6.6
+2024-08-02,Arroz,Granos,1,1.2,1.2
+2024-10-12,Yogurt,Lácteos,2,1.1,2.2
+2024-08-14,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-06,Aceite,Aceites,4,2.0,8.0
+2024-10-22,Carne molida,Carnes,2,4.0,8.0
+2024-10-07,Queso,Lácteos,1,2.5,2.5
+2024-11-22,Carne molida,Carnes,4,4.0,16.0
+2024-11-17,Leche,Lácteos,4,0.9,3.6
+2024-09-29,Queso,Lácteos,1,2.5,2.5
+2024-08-25,Yogurt,Lácteos,3,1.1,3.3
+2024-09-12,Frijoles,Granos,1,1.0,1.0
+2024-11-02,Leche,Lácteos,5,0.9,4.5
+2024-10-22,Carne molida,Carnes,1,4.0,4.0
+2024-10-31,Yogurt,Lácteos,3,1.1,3.3
+2024-08-02,Leche,Lácteos,2,0.9,1.8
+2024-11-10,Aceite,Aceites,1,2.0,2.0
+2024-10-12,Yogurt,Lácteos,2,1.1,2.2
+2024-08-23,Pan,Panadería,3,0.5,1.5
+2024-11-18,Jugo natural,Bebidas,6,1.8,10.8
+2024-11-14,Pollo,Carnes,2,3.5,7.0
+2024-10-05,Pollo,Carnes,4,3.5,14.0
+2024-08-12,Aceite,Aceites,2,2.0,4.0
+2024-10-25,Pollo,Carnes,6,3.5,21.0
+2024-08-24,Frijoles,Granos,3,1.0,3.0
+2024-10-01,Leche,Lácteos,1,0.9,0.9
+2024-11-28,Aceite,Aceites,2,2.0,4.0
+2024-08-01,Pan,Panadería,3,0.5,1.5
+2024-09-19,Yogurt,Lácteos,1,1.1,1.1
+2024-09-27,Pan,Panadería,2,0.5,1.0
+2024-12-01,Yogurt,Lácteos,4,1.1,4.4
+2024-09-08,Aceite,Aceites,1,2.0,2.0
+2024-11-01,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-02,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-23,Yogurt,Lácteos,3,1.1,3.3
+2024-10-28,Aceite,Aceites,3,2.0,6.0
+2024-08-08,Pan,Panadería,5,0.5,2.5
+2024-09-29,Frijoles,Granos,4,1.0,4.0
+2024-08-21,Yogurt,Lácteos,2,1.1,2.2
+2024-10-27,Pollo,Carnes,4,3.5,14.0
+2024-11-27,Queso,Lácteos,2,2.5,5.0
+2024-10-28,Yogurt,Lácteos,4,1.1,4.4
+2024-10-21,Frijoles,Granos,4,1.0,4.0
+2024-09-17,Yogurt,Lácteos,3,1.1,3.3
+2024-08-29,Jugo natural,Bebidas,4,1.8,7.2
+2024-12-01,Pan,Panadería,3,0.5,1.5
+2024-10-01,Leche,Lácteos,4,0.9,3.6
+2024-09-28,Leche,Lácteos,2,0.9,1.8
+2024-09-17,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-29,Pollo,Carnes,3,3.5,10.5
+2024-11-25,Queso,Lácteos,5,2.5,12.5
+2024-11-05,Carne molida,Carnes,4,4.0,16.0
+2024-11-11,Queso,Lácteos,2,2.5,5.0
+2024-11-06,Pan,Panadería,2,0.5,1.0
+2024-10-27,Pan,Panadería,3,0.5,1.5
+2024-11-20,Jugo natural,Bebidas,5,1.8,9.0
+2024-10-07,Frijoles,Granos,3,1.0,3.0
+2024-10-07,Carne molida,Carnes,4,4.0,16.0
+2024-08-10,Aceite,Aceites,2,2.0,4.0
+2024-08-15,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-15,Arroz,Granos,5,1.2,6.0
+2024-11-24,Queso,Lácteos,5,2.5,12.5
+2024-08-26,Queso,Lácteos,2,2.5,5.0
+2024-10-08,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-22,Leche,Lácteos,1,0.9,0.9
+2024-11-18,Aceite,Aceites,3,2.0,6.0
+2024-09-26,Queso,Lácteos,6,2.5,15.0
+2024-10-27,Frijoles,Granos,2,1.0,2.0
+2024-10-31,Pan,Panadería,3,0.5,1.5
+2024-10-02,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-24,Frijoles,Granos,1,1.0,1.0
+2024-09-27,Queso,Lácteos,4,2.5,10.0
+2024-09-28,Arroz,Granos,2,1.2,2.4
+2024-10-05,Leche,Lácteos,5,0.9,4.5
+2024-09-28,Pollo,Carnes,6,3.5,21.0
+2024-08-08,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-29,Queso,Lácteos,3,2.5,7.5
+2024-11-01,Yogurt,Lácteos,1,1.1,1.1
+2024-09-20,Arroz,Granos,4,1.2,4.8
+2024-11-13,Yogurt,Lácteos,2,1.1,2.2
+2024-11-04,Arroz,Granos,2,1.2,2.4
+2024-10-14,Pan,Panadería,2,0.5,1.0
+2024-08-06,Frijoles,Granos,2,1.0,2.0
+2024-09-14,Pollo,Carnes,3,3.5,10.5
+2024-10-09,Frijoles,Granos,3,1.0,3.0
+2024-11-28,Arroz,Granos,2,1.2,2.4
+2024-11-28,Frijoles,Granos,1,1.0,1.0
+2024-08-05,Carne molida,Carnes,6,4.0,24.0
+2024-09-22,Yogurt,Lácteos,1,1.1,1.1
+2024-11-07,Leche,Lácteos,1,0.9,0.9
+2024-11-07,Leche,Lácteos,2,0.9,1.8
+2024-09-17,Pollo,Carnes,2,3.5,7.0
+2024-09-27,Pollo,Carnes,4,3.5,14.0
+2024-09-18,Pollo,Carnes,2,3.5,7.0
+2024-10-27,Frijoles,Granos,1,1.0,1.0
+2024-08-18,Queso,Lácteos,2,2.5,5.0
+2024-08-16,Aceite,Aceites,5,2.0,10.0
+2024-10-08,Leche,Lácteos,3,0.9,2.7
+2024-10-07,Pollo,Carnes,1,3.5,3.5
+2024-11-02,Leche,Lácteos,4,0.9,3.6
+2024-11-15,Pan,Panadería,2,0.5,1.0
+2024-11-05,Arroz,Granos,2,1.2,2.4
+2024-09-08,Arroz,Granos,1,1.2,1.2
+2024-10-26,Carne molida,Carnes,4,4.0,16.0
+2024-09-24,Queso,Lácteos,2,2.5,5.0
+2024-09-18,Queso,Lácteos,1,2.5,2.5
+2024-09-01,Pan,Panadería,3,0.5,1.5
+2024-09-14,Carne molida,Carnes,4,4.0,16.0
+2024-09-05,Leche,Lácteos,2,0.9,1.8
+2024-11-28,Pan,Panadería,6,0.5,3.0
+2024-08-05,Frijoles,Granos,4,1.0,4.0
+2024-10-18,Pollo,Carnes,4,3.5,14.0
+2024-08-31,Arroz,Granos,5,1.2,6.0
+2024-08-09,Pan,Panadería,2,0.5,1.0
+2024-10-16,Frijoles,Granos,3,1.0,3.0
+2024-09-27,Arroz,Granos,3,1.2,3.6
+2024-10-26,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-01,Arroz,Granos,3,1.2,3.6
+2024-09-21,Arroz,Granos,4,1.2,4.8
+2024-08-30,Carne molida,Carnes,4,4.0,16.0
+2024-08-28,Queso,Lácteos,3,2.5,7.5
+2024-08-18,Arroz,Granos,4,1.2,4.8
+2024-09-07,Queso,Lácteos,2,2.5,5.0
+2024-11-13,Pan,Panadería,4,0.5,2.0
+2024-09-10,Jugo natural,Bebidas,6,1.8,10.8
+2024-10-16,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-31,Aceite,Aceites,2,2.0,4.0
+2024-11-21,Yogurt,Lácteos,3,1.1,3.3
+2024-10-24,Leche,Lácteos,1,0.9,0.9
+2024-08-29,Queso,Lácteos,3,2.5,7.5
+2024-09-08,Pollo,Carnes,1,3.5,3.5
+2024-08-08,Yogurt,Lácteos,3,1.1,3.3
+2024-11-30,Queso,Lácteos,2,2.5,5.0
+2024-11-21,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-20,Leche,Lácteos,3,0.9,2.7
+2024-10-11,Pollo,Carnes,6,3.5,21.0
+2024-08-07,Carne molida,Carnes,4,4.0,16.0
+2024-11-29,Aceite,Aceites,2,2.0,4.0
+2024-11-09,Pollo,Carnes,2,3.5,7.0
+2024-09-10,Queso,Lácteos,4,2.5,10.0
+2024-09-22,Pollo,Carnes,1,3.5,3.5
+2024-09-08,Leche,Lácteos,1,0.9,0.9
+2024-08-24,Pollo,Carnes,2,3.5,7.0
+2024-09-30,Queso,Lácteos,2,2.5,5.0
+2024-11-17,Pan,Panadería,3,0.5,1.5
+2024-09-08,Pan,Panadería,5,0.5,2.5
+2024-11-12,Leche,Lácteos,3,0.9,2.7
+2024-11-26,Carne molida,Carnes,7,4.0,28.0
+2024-10-11,Arroz,Granos,2,1.2,2.4
+2024-09-23,Pollo,Carnes,3,3.5,10.5
+2024-10-07,Queso,Lácteos,2,2.5,5.0
+2024-09-19,Leche,Lácteos,4,0.9,3.6
+2024-09-02,Pan,Panadería,4,0.5,2.0
+2024-09-12,Pan,Panadería,3,0.5,1.5
+2024-11-27,Frijoles,Granos,5,1.0,5.0
+2024-11-17,Carne molida,Carnes,3,4.0,12.0
+2024-08-12,Aceite,Aceites,4,2.0,8.0
+2024-11-01,Queso,Lácteos,3,2.5,7.5
+2024-08-07,Pan,Panadería,3,0.5,1.5
+2024-09-18,Yogurt,Lácteos,2,1.1,2.2
+2024-10-17,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-20,Arroz,Granos,4,1.2,4.8
+2024-08-25,Frijoles,Granos,3,1.0,3.0
+2024-11-01,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-28,Queso,Lácteos,2,2.5,5.0
+2024-08-27,Carne molida,Carnes,2,4.0,8.0
+2024-09-08,Aceite,Aceites,6,2.0,12.0
+2024-08-28,Arroz,Granos,2,1.2,2.4
+2024-11-03,Pan,Panadería,4,0.5,2.0
+2024-11-04,Frijoles,Granos,3,1.0,3.0
+2024-11-26,Carne molida,Carnes,4,4.0,16.0
+2024-10-29,Pan,Panadería,5,0.5,2.5
+2024-10-30,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-20,Pan,Panadería,4,0.5,2.0
+2024-10-10,Pan,Panadería,3,0.5,1.5
+2024-11-08,Aceite,Aceites,4,2.0,8.0
+2024-09-18,Yogurt,Lácteos,3,1.1,3.3
+2024-10-08,Carne molida,Carnes,3,4.0,12.0
+2024-09-09,Aceite,Aceites,6,2.0,12.0
+2024-09-16,Yogurt,Lácteos,5,1.1,5.5
+2024-11-21,Queso,Lácteos,2,2.5,5.0
+2024-09-29,Carne molida,Carnes,3,4.0,12.0
+2024-11-11,Frijoles,Granos,4,1.0,4.0
+2024-11-06,Carne molida,Carnes,3,4.0,12.0
+2024-11-26,Aceite,Aceites,3,2.0,6.0
+2024-09-17,Pan,Panadería,1,0.5,0.5
+2024-09-22,Aceite,Aceites,4,2.0,8.0
+2024-10-12,Arroz,Granos,3,1.2,3.6
+2024-11-03,Pan,Panadería,4,0.5,2.0
+2024-08-03,Leche,Lácteos,3,0.9,2.7
+2024-10-10,Yogurt,Lácteos,4,1.1,4.4
+2024-10-14,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-07,Pollo,Carnes,3,3.5,10.5
+2024-08-26,Leche,Lácteos,3,0.9,2.7
+2024-08-30,Aceite,Aceites,4,2.0,8.0
+2024-10-12,Pollo,Carnes,3,3.5,10.5
+2024-10-03,Pan,Panadería,2,0.5,1.0
+2024-10-23,Queso,Lácteos,2,2.5,5.0
+2024-09-02,Aceite,Aceites,4,2.0,8.0
+2024-11-01,Carne molida,Carnes,1,4.0,4.0
+2024-09-28,Carne molida,Carnes,1,4.0,4.0
+2024-11-02,Leche,Lácteos,4,0.9,3.6
+2024-08-22,Aceite,Aceites,3,2.0,6.0
+2024-11-01,Leche,Lácteos,3,0.9,2.7
+2024-10-02,Queso,Lácteos,1,2.5,2.5
+2024-11-26,Leche,Lácteos,3,0.9,2.7
+2024-10-22,Queso,Lácteos,2,2.5,5.0
+2024-10-07,Arroz,Granos,3,1.2,3.6
+2024-11-16,Arroz,Granos,4,1.2,4.8
+2024-11-29,Frijoles,Granos,2,1.0,2.0
+2024-11-06,Arroz,Granos,6,1.2,7.2
+2024-09-22,Arroz,Granos,2,1.2,2.4
+2024-11-16,Leche,Lácteos,3,0.9,2.7
+2024-08-09,Pan,Panadería,3,0.5,1.5
+2024-08-02,Leche,Lácteos,2,0.9,1.8
+2024-10-04,Pan,Panadería,4,0.5,2.0
+2024-09-17,Carne molida,Carnes,2,4.0,8.0
+2024-10-19,Arroz,Granos,2,1.2,2.4
+2024-11-25,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-24,Carne molida,Carnes,2,4.0,8.0
+2024-08-03,Carne molida,Carnes,5,4.0,20.0
+2024-10-08,Arroz,Granos,1,1.2,1.2
+2024-09-22,Queso,Lácteos,2,2.5,5.0
+2024-08-03,Arroz,Granos,2,1.2,2.4
+2024-11-01,Queso,Lácteos,2,2.5,5.0
+2024-10-08,Yogurt,Lácteos,2,1.1,2.2
+2024-08-03,Yogurt,Lácteos,2,1.1,2.2
+2024-11-13,Queso,Lácteos,1,2.5,2.5
+2024-11-12,Pollo,Carnes,4,3.5,14.0
+2024-08-14,Leche,Lácteos,1,0.9,0.9
+2024-10-07,Frijoles,Granos,4,1.0,4.0
+2024-08-31,Leche,Lácteos,2,0.9,1.8
+2024-10-19,Pan,Panadería,7,0.5,3.5
+2024-09-02,Queso,Lácteos,2,2.5,5.0
+2024-09-04,Aceite,Aceites,3,2.0,6.0
+2024-08-11,Pollo,Carnes,2,3.5,7.0
+2024-12-01,Aceite,Aceites,2,2.0,4.0
+2024-09-28,Pollo,Carnes,5,3.5,17.5
+2024-09-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-08,Pan,Panadería,3,0.5,1.5
+2024-10-23,Frijoles,Granos,4,1.0,4.0
+2024-08-12,Arroz,Granos,1,1.2,1.2
+2024-09-18,Pollo,Carnes,2,3.5,7.0
+2024-10-10,Pollo,Carnes,2,3.5,7.0
+2024-08-08,Carne molida,Carnes,2,4.0,8.0
+2024-10-29,Arroz,Granos,4,1.2,4.8
+2024-08-11,Leche,Lácteos,2,0.9,1.8
+2024-11-17,Carne molida,Carnes,3,4.0,12.0
+2024-10-22,Pollo,Carnes,4,3.5,14.0
+2024-10-12,Aceite,Aceites,2,2.0,4.0
+2024-11-23,Frijoles,Granos,3,1.0,3.0
+2024-11-26,Queso,Lácteos,4,2.5,10.0
+2024-08-30,Arroz,Granos,2,1.2,2.4
+2024-11-24,Pan,Panadería,3,0.5,1.5
+2024-09-30,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-06,Yogurt,Lácteos,3,1.1,3.3
+2024-10-27,Frijoles,Granos,1,1.0,1.0
+2024-11-24,Yogurt,Lácteos,4,1.1,4.4
+2024-10-12,Queso,Lácteos,3,2.5,7.5
+2024-08-23,Arroz,Granos,3,1.2,3.6
+2024-08-03,Aceite,Aceites,1,2.0,2.0
+2024-10-15,Pan,Panadería,2,0.5,1.0
+2024-11-05,Leche,Lácteos,1,0.9,0.9
+2024-11-27,Pollo,Carnes,2,3.5,7.0
+2024-09-08,Frijoles,Granos,2,1.0,2.0
+2024-10-12,Leche,Lácteos,3,0.9,2.7
+2024-10-12,Pan,Panadería,4,0.5,2.0
+2024-10-26,Pollo,Carnes,4,3.5,14.0
+2024-09-12,Queso,Lácteos,3,2.5,7.5
+2024-11-05,Pollo,Carnes,3,3.5,10.5
+2024-11-10,Leche,Lácteos,5,0.9,4.5
+2024-10-04,Frijoles,Granos,2,1.0,2.0
+2024-08-07,Aceite,Aceites,4,2.0,8.0
+2024-09-25,Frijoles,Granos,4,1.0,4.0
+2024-11-16,Pan,Panadería,5,0.5,2.5
+2024-09-13,Frijoles,Granos,3,1.0,3.0
+2024-11-07,Jugo natural,Bebidas,5,1.8,9.0
+2024-12-01,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-04,Aceite,Aceites,4,2.0,8.0
+2024-11-09,Yogurt,Lácteos,3,1.1,3.3
+2024-10-02,Carne molida,Carnes,3,4.0,12.0
+2024-09-15,Pan,Panadería,5,0.5,2.5
+2024-11-29,Queso,Lácteos,5,2.5,12.5
+2024-09-25,Pollo,Carnes,2,3.5,7.0
+2024-10-27,Leche,Lácteos,2,0.9,1.8
+2024-10-24,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-11,Pollo,Carnes,4,3.5,14.0
+2024-09-07,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-31,Pan,Panadería,7,0.5,3.5
+2024-08-11,Frijoles,Granos,2,1.0,2.0
+2024-08-20,Yogurt,Lácteos,2,1.1,2.2
+2024-10-31,Pollo,Carnes,4,3.5,14.0
+2024-11-03,Leche,Lácteos,4,0.9,3.6
+2024-09-10,Pollo,Carnes,1,3.5,3.5
+2024-08-14,Aceite,Aceites,3,2.0,6.0
+2024-08-01,Frijoles,Granos,2,1.0,2.0
+2024-09-26,Yogurt,Lácteos,4,1.1,4.4
+2024-11-06,Aceite,Aceites,2,2.0,4.0
+2024-08-14,Yogurt,Lácteos,4,1.1,4.4
+2024-08-12,Leche,Lácteos,6,0.9,5.4
+2024-09-25,Leche,Lácteos,1,0.9,0.9
+2024-10-11,Carne molida,Carnes,2,4.0,8.0
+2024-10-05,Queso,Lácteos,3,2.5,7.5
+2024-08-14,Pollo,Carnes,2,3.5,7.0
+2024-08-12,Arroz,Granos,6,1.2,7.2
+2024-10-10,Aceite,Aceites,2,2.0,4.0
+2024-10-16,Frijoles,Granos,4,1.0,4.0
+2024-11-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-19,Aceite,Aceites,3,2.0,6.0
+2024-08-02,Pollo,Carnes,1,3.5,3.5
+2024-09-22,Yogurt,Lácteos,3,1.1,3.3
+2024-11-08,Pollo,Carnes,3,3.5,10.5
+2024-11-01,Frijoles,Granos,5,1.0,5.0
+2024-11-24,Queso,Lácteos,1,2.5,2.5
+2024-10-13,Pan,Panadería,4,0.5,2.0
+2024-08-22,Queso,Lácteos,4,2.5,10.0
+2024-08-22,Pollo,Carnes,4,3.5,14.0
+2024-09-04,Leche,Lácteos,3,0.9,2.7
+2024-09-04,Yogurt,Lácteos,1,1.1,1.1
+2024-08-19,Carne molida,Carnes,3,4.0,12.0
+2024-08-22,Frijoles,Granos,3,1.0,3.0
+2024-09-05,Pollo,Carnes,2,3.5,7.0
+2024-09-08,Pollo,Carnes,1,3.5,3.5
+2024-11-09,Carne molida,Carnes,1,4.0,4.0
+2024-09-16,Frijoles,Granos,2,1.0,2.0
+2024-11-29,Yogurt,Lácteos,1,1.1,1.1
+2024-11-01,Pan,Panadería,3,0.5,1.5
+2024-10-16,Carne molida,Carnes,2,4.0,8.0
+2024-08-26,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-14,Carne molida,Carnes,2,4.0,8.0
+2024-09-08,Leche,Lácteos,2,0.9,1.8
+2024-11-30,Arroz,Granos,7,1.2,8.4
+2024-09-12,Pollo,Carnes,4,3.5,14.0
+2024-09-18,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-26,Aceite,Aceites,2,2.0,4.0
+2024-09-25,Aceite,Aceites,5,2.0,10.0
+2024-08-18,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-11,Yogurt,Lácteos,1,1.1,1.1
+2024-11-30,Jugo natural,Bebidas,1,1.8,1.8
+2024-10-01,Pan,Panadería,4,0.5,2.0
+2024-08-23,Aceite,Aceites,4,2.0,8.0
+2024-09-10,Pollo,Carnes,5,3.5,17.5
+2024-11-03,Yogurt,Lácteos,3,1.1,3.3
+2024-10-13,Carne molida,Carnes,2,4.0,8.0
+2024-09-11,Pan,Panadería,5,0.5,2.5
+2024-09-05,Pollo,Carnes,3,3.5,10.5
+2024-09-16,Pollo,Carnes,2,3.5,7.0
+2024-11-28,Frijoles,Granos,3,1.0,3.0
+2024-08-26,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-27,Leche,Lácteos,2,0.9,1.8
+2024-08-04,Queso,Lácteos,1,2.5,2.5
+2024-11-29,Carne molida,Carnes,4,4.0,16.0
+2024-09-26,Pan,Panadería,5,0.5,2.5
+2024-11-15,Yogurt,Lácteos,7,1.1,7.7
+2024-11-13,Frijoles,Granos,5,1.0,5.0
+2024-10-26,Pollo,Carnes,3,3.5,10.5
+2024-08-18,Carne molida,Carnes,2,4.0,8.0
+2024-08-31,Yogurt,Lácteos,5,1.1,5.5
+2024-10-24,Yogurt,Lácteos,3,1.1,3.3
+2024-10-31,Leche,Lácteos,4,0.9,3.6
+2024-11-10,Pollo,Carnes,3,3.5,10.5
+2024-08-10,Pollo,Carnes,4,3.5,14.0
+2024-10-16,Carne molida,Carnes,1,4.0,4.0
+2024-10-14,Carne molida,Carnes,3,4.0,12.0
+2024-10-08,Pollo,Carnes,3,3.5,10.5
+2024-11-27,Queso,Lácteos,3,2.5,7.5
+2024-10-09,Pollo,Carnes,4,3.5,14.0
+2024-11-10,Arroz,Granos,3,1.2,3.6
+2024-10-29,Aceite,Aceites,3,2.0,6.0
+2024-10-16,Queso,Lácteos,4,2.5,10.0
+2024-08-14,Frijoles,Granos,6,1.0,6.0
+2024-10-24,Pan,Panadería,4,0.5,2.0
+2024-08-22,Aceite,Aceites,1,2.0,2.0
+2024-08-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-22,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-05,Pollo,Carnes,3,3.5,10.5
+2024-11-10,Aceite,Aceites,4,2.0,8.0
+2024-08-14,Pollo,Carnes,3,3.5,10.5
+2024-08-13,Arroz,Granos,1,1.2,1.2
+2024-08-29,Yogurt,Lácteos,3,1.1,3.3
+2024-11-04,Queso,Lácteos,2,2.5,5.0
+2024-10-11,Queso,Lácteos,3,2.5,7.5
+2024-10-28,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-29,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-17,Carne molida,Carnes,1,4.0,4.0
+2024-09-29,Pollo,Carnes,3,3.5,10.5
+2024-10-28,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-20,Queso,Lácteos,1,2.5,2.5
+2024-08-04,Aceite,Aceites,2,2.0,4.0
+2024-08-14,Carne molida,Carnes,3,4.0,12.0
+2024-09-23,Yogurt,Lácteos,1,1.1,1.1
+2024-08-15,Frijoles,Granos,2,1.0,2.0
+2024-09-14,Leche,Lácteos,5,0.9,4.5
+2024-09-13,Yogurt,Lácteos,4,1.1,4.4
+2024-11-09,Carne molida,Carnes,5,4.0,20.0
+2024-10-06,Pan,Panadería,3,0.5,1.5
+2024-09-14,Carne molida,Carnes,3,4.0,12.0
+2024-08-13,Carne molida,Carnes,3,4.0,12.0
+2024-11-01,Carne molida,Carnes,2,4.0,8.0
+2024-09-10,Carne molida,Carnes,2,4.0,8.0
+2024-09-08,Frijoles,Granos,2,1.0,2.0
+2024-11-12,Arroz,Granos,2,1.2,2.4
+2024-08-03,Frijoles,Granos,4,1.0,4.0
+2024-10-22,Aceite,Aceites,3,2.0,6.0
+2024-10-26,Frijoles,Granos,3,1.0,3.0
+2024-11-28,Leche,Lácteos,3,0.9,2.7
+2024-10-06,Pan,Panadería,1,0.5,0.5
+2024-10-10,Leche,Lácteos,2,0.9,1.8
+2024-09-12,Leche,Lácteos,5,0.9,4.5
+2024-09-24,Queso,Lácteos,3,2.5,7.5
+2024-08-30,Carne molida,Carnes,5,4.0,20.0
+2024-10-20,Pollo,Carnes,5,3.5,17.5
+2024-08-24,Leche,Lácteos,3,0.9,2.7
+2024-09-20,Pollo,Carnes,2,3.5,7.0
+2024-11-03,Arroz,Granos,4,1.2,4.8
+2024-11-22,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-27,Pan,Panadería,2,0.5,1.0
+2024-09-24,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-01,Pollo,Carnes,5,3.5,17.5
+2024-08-27,Pan,Panadería,2,0.5,1.0
+2024-11-05,Yogurt,Lácteos,5,1.1,5.5
+2024-10-13,Frijoles,Granos,1,1.0,1.0
+2024-11-11,Frijoles,Granos,4,1.0,4.0
+2024-08-24,Queso,Lácteos,4,2.5,10.0
+2024-09-11,Aceite,Aceites,4,2.0,8.0
+2024-09-28,Pan,Panadería,3,0.5,1.5
+2024-09-03,Frijoles,Granos,2,1.0,2.0
+2024-10-07,Carne molida,Carnes,1,4.0,4.0
+2024-10-16,Aceite,Aceites,3,2.0,6.0
+2024-10-18,Pollo,Carnes,3,3.5,10.5
+2024-10-15,Pollo,Carnes,3,3.5,10.5
+2024-09-14,Frijoles,Granos,4,1.0,4.0
+2024-11-17,Aceite,Aceites,4,2.0,8.0
+2024-10-19,Carne molida,Carnes,2,4.0,8.0
+2024-11-13,Leche,Lácteos,3,0.9,2.7
+2024-11-26,Yogurt,Lácteos,2,1.1,2.2
+2024-10-15,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-26,Frijoles,Granos,1,1.0,1.0
+2024-09-10,Leche,Lácteos,2,0.9,1.8
+2024-08-31,Frijoles,Granos,2,1.0,2.0
+2024-08-15,Yogurt,Lácteos,3,1.1,3.3
+2024-09-17,Leche,Lácteos,2,0.9,1.8
+2024-10-05,Leche,Lácteos,2,0.9,1.8
+2024-09-23,Pollo,Carnes,3,3.5,10.5
+2024-08-18,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-19,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-24,Pollo,Carnes,2,3.5,7.0
+2024-10-21,Carne molida,Carnes,5,4.0,20.0
+2024-10-28,Queso,Lácteos,3,2.5,7.5
+2024-10-11,Leche,Lácteos,2,0.9,1.8
+2024-10-02,Leche,Lácteos,2,0.9,1.8
+2024-08-18,Yogurt,Lácteos,4,1.1,4.4
+2024-09-10,Leche,Lácteos,2,0.9,1.8
+2024-10-19,Carne molida,Carnes,4,4.0,16.0
+2024-11-19,Arroz,Granos,4,1.2,4.8
+2024-11-30,Aceite,Aceites,3,2.0,6.0
+2024-10-02,Arroz,Granos,3,1.2,3.6
+2024-08-25,Leche,Lácteos,5,0.9,4.5
+2024-10-11,Pollo,Carnes,2,3.5,7.0
+2024-10-23,Queso,Lácteos,2,2.5,5.0
+2024-09-22,Carne molida,Carnes,3,4.0,12.0
+2024-09-23,Carne molida,Carnes,2,4.0,8.0
+2024-10-02,Carne molida,Carnes,4,4.0,16.0
+2024-08-11,Leche,Lácteos,4,0.9,3.6
+2024-08-04,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-07,Pan,Panadería,2,0.5,1.0
+2024-09-05,Arroz,Granos,2,1.2,2.4
+2024-10-08,Pan,Panadería,2,0.5,1.0
+2024-08-22,Yogurt,Lácteos,2,1.1,2.2
+2024-10-12,Carne molida,Carnes,3,4.0,12.0
+2024-10-10,Carne molida,Carnes,1,4.0,4.0
+2024-08-15,Queso,Lácteos,2,2.5,5.0
+2024-08-15,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-08,Yogurt,Lácteos,5,1.1,5.5
+2024-11-14,Queso,Lácteos,1,2.5,2.5
+2024-10-09,Aceite,Aceites,1,2.0,2.0
+2024-11-06,Arroz,Granos,2,1.2,2.4
+2024-10-09,Carne molida,Carnes,2,4.0,8.0
+2024-09-24,Pan,Panadería,5,0.5,2.5
+2024-11-03,Frijoles,Granos,3,1.0,3.0
+2024-09-08,Pan,Panadería,3,0.5,1.5
+2024-09-27,Arroz,Granos,3,1.2,3.6
+2024-09-14,Yogurt,Lácteos,6,1.1,6.6
+2024-09-26,Frijoles,Granos,4,1.0,4.0
+2024-11-08,Frijoles,Granos,5,1.0,5.0
+2024-08-27,Pan,Panadería,4,0.5,2.0
+2024-10-28,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-19,Aceite,Aceites,4,2.0,8.0
+2024-10-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-22,Pollo,Carnes,4,3.5,14.0
+2024-08-18,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-13,Pan,Panadería,2,0.5,1.0
+2024-11-12,Pan,Panadería,2,0.5,1.0
+2024-10-12,Arroz,Granos,5,1.2,6.0
+2024-10-08,Aceite,Aceites,1,2.0,2.0
+2024-10-16,Yogurt,Lácteos,3,1.1,3.3
+2024-08-22,Queso,Lácteos,4,2.5,10.0
+2024-10-30,Aceite,Aceites,2,2.0,4.0
+2024-09-07,Yogurt,Lácteos,1,1.1,1.1
+2024-09-04,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-24,Queso,Lácteos,3,2.5,7.5
+2024-08-18,Frijoles,Granos,2,1.0,2.0
+2024-11-26,Pollo,Carnes,3,3.5,10.5
+2024-09-05,Arroz,Granos,2,1.2,2.4
+2024-10-29,Leche,Lácteos,1,0.9,0.9
+2024-09-01,Leche,Lácteos,3,0.9,2.7
+2024-10-31,Leche,Lácteos,1,0.9,0.9
+2024-11-15,Aceite,Aceites,4,2.0,8.0
+2024-11-06,Pan,Panadería,3,0.5,1.5
+2024-10-02,Pollo,Carnes,5,3.5,17.5
+2024-10-13,Leche,Lácteos,2,0.9,1.8
+2024-10-20,Yogurt,Lácteos,1,1.1,1.1
+2024-09-18,Pollo,Carnes,1,3.5,3.5
+2024-08-10,Carne molida,Carnes,5,4.0,20.0
+2024-09-21,Frijoles,Granos,1,1.0,1.0
+2024-11-04,Queso,Lácteos,6,2.5,15.0
+2024-10-28,Yogurt,Lácteos,1,1.1,1.1
+2024-09-28,Aceite,Aceites,4,2.0,8.0
+2024-09-11,Carne molida,Carnes,3,4.0,12.0
+2024-08-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-02,Frijoles,Granos,2,1.0,2.0
+2024-10-21,Carne molida,Carnes,2,4.0,8.0
+2024-11-17,Aceite,Aceites,3,2.0,6.0
+2024-11-10,Frijoles,Granos,4,1.0,4.0
+2024-09-20,Queso,Lácteos,3,2.5,7.5
+2024-09-24,Pan,Panadería,4,0.5,2.0
+2024-10-03,Pan,Panadería,4,0.5,2.0
+2024-09-11,Yogurt,Lácteos,2,1.1,2.2
+2024-09-13,Yogurt,Lácteos,3,1.1,3.3
+2024-10-13,Queso,Lácteos,3,2.5,7.5
+2024-10-12,Leche,Lácteos,3,0.9,2.7
+2024-11-09,Carne molida,Carnes,5,4.0,20.0
+2024-11-23,Aceite,Aceites,2,2.0,4.0
+2024-08-06,Arroz,Granos,1,1.2,1.2
+2024-10-20,Frijoles,Granos,2,1.0,2.0
+2024-08-03,Carne molida,Carnes,3,4.0,12.0
+2024-11-27,Frijoles,Granos,1,1.0,1.0
+2024-09-26,Leche,Lácteos,2,0.9,1.8
+2024-08-01,Carne molida,Carnes,1,4.0,4.0
+2024-08-26,Pollo,Carnes,3,3.5,10.5
+2024-11-21,Leche,Lácteos,3,0.9,2.7
+2024-08-21,Yogurt,Lácteos,4,1.1,4.4
+2024-08-12,Yogurt,Lácteos,1,1.1,1.1
+2024-09-02,Aceite,Aceites,6,2.0,12.0
+2024-09-17,Frijoles,Granos,6,1.0,6.0
+2024-08-07,Leche,Lácteos,2,0.9,1.8
+2024-10-20,Pollo,Carnes,5,3.5,17.5
+2024-11-01,Yogurt,Lácteos,3,1.1,3.3
+2024-09-24,Pan,Panadería,4,0.5,2.0
+2024-10-30,Frijoles,Granos,3,1.0,3.0
+2024-08-01,Frijoles,Granos,4,1.0,4.0
+2024-10-01,Pan,Panadería,3,0.5,1.5
+2024-08-17,Frijoles,Granos,3,1.0,3.0
+2024-08-29,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-27,Queso,Lácteos,3,2.5,7.5
+2024-08-02,Carne molida,Carnes,1,4.0,4.0
+2024-10-29,Arroz,Granos,5,1.2,6.0
+2024-11-13,Aceite,Aceites,5,2.0,10.0
+2024-11-19,Frijoles,Granos,2,1.0,2.0
+2024-10-28,Pollo,Carnes,4,3.5,14.0
+2024-10-01,Leche,Lácteos,1,0.9,0.9
+2024-08-30,Frijoles,Granos,3,1.0,3.0
+2024-08-12,Pollo,Carnes,1,3.5,3.5
+2024-08-14,Frijoles,Granos,4,1.0,4.0
+2024-09-17,Aceite,Aceites,3,2.0,6.0
+2024-08-18,Yogurt,Lácteos,2,1.1,2.2
+2024-11-08,Pollo,Carnes,1,3.5,3.5
+2024-10-22,Leche,Lácteos,1,0.9,0.9
+2024-08-09,Leche,Lácteos,5,0.9,4.5
+2024-10-12,Queso,Lácteos,3,2.5,7.5
+2024-10-18,Arroz,Granos,3,1.2,3.6
+2024-09-26,Leche,Lácteos,4,0.9,3.6
+2024-11-01,Aceite,Aceites,6,2.0,12.0
+2024-10-20,Pan,Panadería,4,0.5,2.0
+2024-11-26,Leche,Lácteos,1,0.9,0.9
+2024-10-18,Pollo,Carnes,1,3.5,3.5
+2024-11-19,Carne molida,Carnes,3,4.0,12.0
+2024-08-12,Pan,Panadería,3,0.5,1.5
+2024-08-18,Frijoles,Granos,3,1.0,3.0
+2024-10-15,Frijoles,Granos,4,1.0,4.0
+2024-09-14,Pollo,Carnes,1,3.5,3.5
+2024-09-10,Pollo,Carnes,1,3.5,3.5
+2024-09-01,Leche,Lácteos,4,0.9,3.6
+2024-10-22,Yogurt,Lácteos,3,1.1,3.3
+2024-09-01,Frijoles,Granos,4,1.0,4.0
+2024-10-16,Queso,Lácteos,2,2.5,5.0
+2024-11-01,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-06,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-17,Arroz,Granos,2,1.2,2.4
+2024-08-27,Yogurt,Lácteos,4,1.1,4.4
+2024-10-17,Queso,Lácteos,5,2.5,12.5
+2024-08-25,Queso,Lácteos,3,2.5,7.5
+2024-09-07,Pollo,Carnes,2,3.5,7.0
+2024-11-09,Arroz,Granos,5,1.2,6.0
+2024-10-03,Pan,Panadería,2,0.5,1.0
+2024-08-15,Pollo,Carnes,2,3.5,7.0
+2024-10-03,Pan,Panadería,4,0.5,2.0
+2024-08-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-22,Queso,Lácteos,5,2.5,12.5
+2024-09-16,Arroz,Granos,4,1.2,4.8
+2024-08-17,Aceite,Aceites,1,2.0,2.0
+2024-11-19,Pollo,Carnes,3,3.5,10.5
+2024-09-23,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-09,Aceite,Aceites,3,2.0,6.0
+2024-11-06,Leche,Lácteos,2,0.9,1.8
+2024-12-01,Carne molida,Carnes,5,4.0,20.0
+2024-08-03,Frijoles,Granos,2,1.0,2.0
+2024-08-09,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-03,Arroz,Granos,1,1.2,1.2
+2024-08-06,Pan,Panadería,4,0.5,2.0
+2024-11-30,Arroz,Granos,1,1.2,1.2
+2024-10-04,Pollo,Carnes,3,3.5,10.5
+2024-10-20,Yogurt,Lácteos,2,1.1,2.2
+2024-11-07,Queso,Lácteos,2,2.5,5.0
+2024-09-24,Pollo,Carnes,3,3.5,10.5
+2024-08-11,Pollo,Carnes,5,3.5,17.5
+2024-10-08,Queso,Lácteos,5,2.5,12.5
+2024-08-20,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-11,Yogurt,Lácteos,5,1.1,5.5
+2024-08-11,Yogurt,Lácteos,2,1.1,2.2
+2024-11-26,Queso,Lácteos,3,2.5,7.5
+2024-11-12,Pan,Panadería,2,0.5,1.0
+2024-10-08,Leche,Lácteos,2,0.9,1.8
+2024-09-20,Aceite,Aceites,5,2.0,10.0
+2024-10-21,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-09,Frijoles,Granos,1,1.0,1.0
+2024-11-02,Pollo,Carnes,4,3.5,14.0
+2024-08-08,Pan,Panadería,2,0.5,1.0
+2024-08-12,Pan,Panadería,3,0.5,1.5
+2024-08-15,Pollo,Carnes,3,3.5,10.5
+2024-10-18,Carne molida,Carnes,1,4.0,4.0
+2024-08-08,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-25,Yogurt,Lácteos,6,1.1,6.6
+2024-08-16,Leche,Lácteos,3,0.9,2.7
+2024-10-30,Arroz,Granos,4,1.2,4.8
+2024-10-29,Leche,Lácteos,1,0.9,0.9
+2024-08-21,Arroz,Granos,3,1.2,3.6
+2024-11-30,Carne molida,Carnes,2,4.0,8.0
+2024-10-06,Aceite,Aceites,4,2.0,8.0
+2024-11-09,Queso,Lácteos,3,2.5,7.5
+2024-08-22,Yogurt,Lácteos,2,1.1,2.2
+2024-08-17,Aceite,Aceites,3,2.0,6.0
+2024-11-02,Yogurt,Lácteos,2,1.1,2.2
+2024-11-07,Frijoles,Granos,3,1.0,3.0
+2024-09-12,Arroz,Granos,6,1.2,7.2
+2024-09-04,Pollo,Carnes,4,3.5,14.0
+2024-08-09,Queso,Lácteos,5,2.5,12.5
+2024-10-31,Yogurt,Lácteos,3,1.1,3.3
+2024-10-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-03,Frijoles,Granos,1,1.0,1.0
+2024-10-05,Carne molida,Carnes,3,4.0,12.0
+2024-08-08,Aceite,Aceites,2,2.0,4.0
+2024-11-18,Carne molida,Carnes,2,4.0,8.0
+2024-08-22,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-21,Aceite,Aceites,4,2.0,8.0
+2024-11-07,Yogurt,Lácteos,2,1.1,2.2
+2024-11-23,Frijoles,Granos,3,1.0,3.0
+2024-10-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-30,Frijoles,Granos,3,1.0,3.0
+2024-08-01,Queso,Lácteos,2,2.5,5.0
+2024-11-18,Arroz,Granos,2,1.2,2.4
+2024-09-01,Arroz,Granos,4,1.2,4.8
+2024-09-30,Arroz,Granos,4,1.2,4.8
+2024-09-19,Aceite,Aceites,2,2.0,4.0
+2024-08-23,Leche,Lácteos,1,0.9,0.9
+2024-10-10,Arroz,Granos,4,1.2,4.8
+2024-08-29,Pollo,Carnes,4,3.5,14.0
+2024-09-01,Aceite,Aceites,4,2.0,8.0
+2024-11-26,Pollo,Carnes,1,3.5,3.5
+2024-09-04,Aceite,Aceites,1,2.0,2.0
+2024-10-13,Frijoles,Granos,1,1.0,1.0
+2024-08-16,Aceite,Aceites,5,2.0,10.0
+2024-10-26,Queso,Lácteos,2,2.5,5.0
+2024-08-23,Arroz,Granos,4,1.2,4.8
+2024-11-11,Pan,Panadería,1,0.5,0.5
+2024-08-06,Queso,Lácteos,1,2.5,2.5
+2024-08-09,Pollo,Carnes,5,3.5,17.5
+2024-11-19,Carne molida,Carnes,2,4.0,8.0
+2024-11-08,Yogurt,Lácteos,3,1.1,3.3
+2024-09-11,Yogurt,Lácteos,5,1.1,5.5
+2024-10-10,Frijoles,Granos,2,1.0,2.0
+2024-08-02,Carne molida,Carnes,1,4.0,4.0
+2024-08-26,Aceite,Aceites,2,2.0,4.0
+2024-10-12,Yogurt,Lácteos,3,1.1,3.3
+2024-11-03,Yogurt,Lácteos,2,1.1,2.2
+2024-09-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-17,Carne molida,Carnes,2,4.0,8.0
+2024-10-03,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-02,Pan,Panadería,2,0.5,1.0
+2024-11-06,Queso,Lácteos,2,2.5,5.0
+2024-08-20,Pan,Panadería,4,0.5,2.0
+2024-11-28,Arroz,Granos,2,1.2,2.4
+2024-08-04,Pollo,Carnes,3,3.5,10.5
+2024-10-09,Pan,Panadería,1,0.5,0.5
+2024-10-21,Aceite,Aceites,2,2.0,4.0
+2024-11-30,Arroz,Granos,4,1.2,4.8
+2024-08-01,Aceite,Aceites,2,2.0,4.0
+2024-11-17,Pollo,Carnes,5,3.5,17.5
+2024-08-14,Yogurt,Lácteos,3,1.1,3.3
+2024-10-07,Pan,Panadería,1,0.5,0.5
+2024-09-23,Pan,Panadería,5,0.5,2.5
+2024-08-08,Carne molida,Carnes,3,4.0,12.0
+2024-10-31,Leche,Lácteos,2,0.9,1.8
+2024-08-12,Yogurt,Lácteos,2,1.1,2.2
+2024-11-26,Arroz,Granos,3,1.2,3.6
+2024-11-23,Pan,Panadería,2,0.5,1.0
+2024-09-22,Queso,Lácteos,3,2.5,7.5
+2024-09-28,Aceite,Aceites,3,2.0,6.0
+2024-10-14,Frijoles,Granos,2,1.0,2.0
+2024-10-04,Frijoles,Granos,2,1.0,2.0
+2024-10-21,Leche,Lácteos,6,0.9,5.4
+2024-08-10,Pollo,Carnes,2,3.5,7.0
+2024-10-12,Jugo natural,Bebidas,7,1.8,12.6
+2024-09-25,Arroz,Granos,5,1.2,6.0
+2024-08-31,Leche,Lácteos,3,0.9,2.7
+2024-09-03,Yogurt,Lácteos,2,1.1,2.2
+2024-11-27,Aceite,Aceites,2,2.0,4.0
+2024-10-29,Pollo,Carnes,4,3.5,14.0
+2024-09-10,Aceite,Aceites,3,2.0,6.0
+2024-09-04,Carne molida,Carnes,2,4.0,8.0
+2024-08-10,Pan,Panadería,5,0.5,2.5
+2024-08-18,Pan,Panadería,3,0.5,1.5
+2024-08-14,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-14,Leche,Lácteos,4,0.9,3.6
+2024-09-27,Leche,Lácteos,3,0.9,2.7
+2024-09-10,Carne molida,Carnes,5,4.0,20.0
+2024-08-16,Pollo,Carnes,5,3.5,17.5
+2024-09-15,Queso,Lácteos,2,2.5,5.0
+2024-09-27,Pan,Panadería,5,0.5,2.5
+2024-09-29,Yogurt,Lácteos,1,1.1,1.1
+2024-11-18,Yogurt,Lácteos,4,1.1,4.4
+2024-08-12,Frijoles,Granos,4,1.0,4.0
+2024-11-12,Leche,Lácteos,3,0.9,2.7
+2024-11-14,Yogurt,Lácteos,4,1.1,4.4
+2024-08-06,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-15,Pan,Panadería,5,0.5,2.5
+2024-08-19,Aceite,Aceites,4,2.0,8.0
+2024-10-31,Frijoles,Granos,1,1.0,1.0
+2024-09-15,Pan,Panadería,3,0.5,1.5
+2024-10-05,Pollo,Carnes,2,3.5,7.0
+2024-10-26,Arroz,Granos,1,1.2,1.2
+2024-09-03,Yogurt,Lácteos,4,1.1,4.4
+2024-08-04,Leche,Lácteos,2,0.9,1.8
+2024-11-18,Pollo,Carnes,2,3.5,7.0
+2024-10-11,Carne molida,Carnes,2,4.0,8.0
+2024-09-01,Queso,Lácteos,5,2.5,12.5
+2024-09-29,Frijoles,Granos,4,1.0,4.0
+2024-11-11,Frijoles,Granos,1,1.0,1.0
+2024-08-16,Leche,Lácteos,2,0.9,1.8
+2024-08-08,Arroz,Granos,5,1.2,6.0
+2024-08-17,Pan,Panadería,3,0.5,1.5
+2024-11-14,Pan,Panadería,2,0.5,1.0
+2024-09-17,Pollo,Carnes,3,3.5,10.5
+2024-10-14,Frijoles,Granos,2,1.0,2.0
+2024-09-03,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-03,Frijoles,Granos,4,1.0,4.0
+2024-08-26,Frijoles,Granos,7,1.0,7.0
+2024-11-12,Carne molida,Carnes,2,4.0,8.0
+2024-08-12,Leche,Lácteos,4,0.9,3.6
+2024-08-16,Aceite,Aceites,2,2.0,4.0
+2024-11-29,Arroz,Granos,5,1.2,6.0
+2024-08-07,Carne molida,Carnes,3,4.0,12.0
+2024-11-27,Leche,Lácteos,4,0.9,3.6
+2024-09-25,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-03,Pollo,Carnes,3,3.5,10.5
+2024-09-18,Arroz,Granos,3,1.2,3.6
+2024-08-23,Pollo,Carnes,3,3.5,10.5
+2024-08-28,Aceite,Aceites,2,2.0,4.0
+2024-09-05,Leche,Lácteos,5,0.9,4.5
+2024-09-27,Yogurt,Lácteos,2,1.1,2.2
+2024-08-05,Leche,Lácteos,2,0.9,1.8
+2024-10-19,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-01,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-03,Yogurt,Lácteos,6,1.1,6.6
+2024-11-21,Pollo,Carnes,1,3.5,3.5
+2024-10-01,Queso,Lácteos,1,2.5,2.5
+2024-08-12,Arroz,Granos,3,1.2,3.6
+2024-09-19,Yogurt,Lácteos,2,1.1,2.2
+2024-09-23,Leche,Lácteos,5,0.9,4.5
+2024-10-22,Pan,Panadería,5,0.5,2.5
+2024-09-01,Queso,Lácteos,3,2.5,7.5
+2024-11-10,Queso,Lácteos,2,2.5,5.0
+2024-09-18,Arroz,Granos,2,1.2,2.4
+2024-10-01,Aceite,Aceites,5,2.0,10.0
+2024-11-09,Queso,Lácteos,2,2.5,5.0
+2024-09-14,Carne molida,Carnes,9,4.0,36.0
+2024-10-04,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-19,Aceite,Aceites,2,2.0,4.0
+2024-08-24,Yogurt,Lácteos,4,1.1,4.4
+2024-09-10,Arroz,Granos,2,1.2,2.4
+2024-08-29,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-23,Arroz,Granos,3,1.2,3.6
+2024-08-08,Yogurt,Lácteos,3,1.1,3.3
+2024-10-07,Carne molida,Carnes,2,4.0,8.0
+2024-11-07,Aceite,Aceites,3,2.0,6.0
+2024-08-30,Jugo natural,Bebidas,1,1.8,1.8
+2024-08-13,Leche,Lácteos,2,0.9,1.8
+2024-10-24,Pan,Panadería,1,0.5,0.5
+2024-09-04,Pan,Panadería,6,0.5,3.0
+2024-11-13,Queso,Lácteos,5,2.5,12.5
+2024-11-06,Arroz,Granos,4,1.2,4.8
+2024-10-13,Pan,Panadería,2,0.5,1.0
+2024-09-15,Pollo,Carnes,3,3.5,10.5
+2024-08-23,Leche,Lácteos,2,0.9,1.8
+2024-10-15,Pan,Panadería,5,0.5,2.5
+2024-11-12,Aceite,Aceites,2,2.0,4.0
+2024-11-25,Aceite,Aceites,1,2.0,2.0
+2024-08-04,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-30,Aceite,Aceites,2,2.0,4.0
+2024-10-12,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-12,Leche,Lácteos,1,0.9,0.9
+2024-11-16,Pan,Panadería,3,0.5,1.5
+2024-10-09,Carne molida,Carnes,3,4.0,12.0
+2024-08-23,Yogurt,Lácteos,2,1.1,2.2
+2024-08-05,Carne molida,Carnes,4,4.0,16.0
+2024-08-08,Frijoles,Granos,4,1.0,4.0
+2024-10-17,Pan,Panadería,2,0.5,1.0
+2024-08-03,Pan,Panadería,2,0.5,1.0
+2024-10-01,Queso,Lácteos,4,2.5,10.0
+2024-09-12,Arroz,Granos,2,1.2,2.4
+2024-08-26,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-13,Leche,Lácteos,2,0.9,1.8
+2024-11-26,Leche,Lácteos,4,0.9,3.6
+2024-08-08,Aceite,Aceites,5,2.0,10.0
+2024-08-19,Arroz,Granos,3,1.2,3.6
+2024-10-30,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-08,Leche,Lácteos,3,0.9,2.7
+2024-11-17,Frijoles,Granos,2,1.0,2.0
+2024-11-19,Queso,Lácteos,4,2.5,10.0
+2024-12-01,Aceite,Aceites,3,2.0,6.0
+2024-09-17,Frijoles,Granos,3,1.0,3.0
+2024-10-15,Pollo,Carnes,3,3.5,10.5
+2024-09-13,Frijoles,Granos,1,1.0,1.0
+2024-09-11,Yogurt,Lácteos,4,1.1,4.4
+2024-08-21,Leche,Lácteos,3,0.9,2.7
+2024-11-10,Pollo,Carnes,1,3.5,3.5
+2024-10-23,Carne molida,Carnes,3,4.0,12.0
+2024-08-23,Aceite,Aceites,3,2.0,6.0
+2024-10-28,Queso,Lácteos,3,2.5,7.5
+2024-11-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-29,Aceite,Aceites,4,2.0,8.0
+2024-11-13,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-18,Leche,Lácteos,3,0.9,2.7
+2024-11-02,Yogurt,Lácteos,3,1.1,3.3
+2024-08-17,Yogurt,Lácteos,4,1.1,4.4
+2024-11-02,Leche,Lácteos,3,0.9,2.7
+2024-11-30,Arroz,Granos,5,1.2,6.0
+2024-09-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-05,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-17,Leche,Lácteos,2,0.9,1.8
+2024-11-26,Aceite,Aceites,1,2.0,2.0
+2024-08-29,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-14,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-19,Carne molida,Carnes,2,4.0,8.0
+2024-11-04,Aceite,Aceites,1,2.0,2.0
+2024-08-31,Frijoles,Granos,3,1.0,3.0
+2024-09-10,Aceite,Aceites,1,2.0,2.0
+2024-10-21,Leche,Lácteos,1,0.9,0.9
+2024-11-14,Frijoles,Granos,4,1.0,4.0
+2024-09-27,Aceite,Aceites,3,2.0,6.0
+2024-09-03,Arroz,Granos,4,1.2,4.8
+2024-09-01,Pan,Panadería,2,0.5,1.0
+2024-09-14,Frijoles,Granos,2,1.0,2.0
+2024-11-09,Yogurt,Lácteos,3,1.1,3.3
+2024-11-01,Frijoles,Granos,5,1.0,5.0
+2024-08-07,Arroz,Granos,4,1.2,4.8
+2024-09-26,Pollo,Carnes,2,3.5,7.0
+2024-08-22,Pollo,Carnes,5,3.5,17.5
+2024-10-03,Pollo,Carnes,2,3.5,7.0
+2024-09-14,Pollo,Carnes,4,3.5,14.0
+2024-09-18,Queso,Lácteos,2,2.5,5.0
+2024-11-15,Frijoles,Granos,2,1.0,2.0
+2024-11-09,Carne molida,Carnes,3,4.0,12.0
+2024-10-23,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-21,Pan,Panadería,2,0.5,1.0
+2024-08-10,Carne molida,Carnes,4,4.0,16.0
+2024-09-07,Arroz,Granos,3,1.2,3.6
+2024-09-10,Arroz,Granos,3,1.2,3.6
+2024-11-30,Yogurt,Lácteos,3,1.1,3.3
+2024-08-10,Frijoles,Granos,1,1.0,1.0
+2024-08-22,Aceite,Aceites,6,2.0,12.0
+2024-08-21,Pollo,Carnes,3,3.5,10.5
+2024-10-10,Frijoles,Granos,3,1.0,3.0
+2024-09-13,Frijoles,Granos,1,1.0,1.0
+2024-10-18,Jugo natural,Bebidas,5,1.8,9.0
+2024-10-30,Carne molida,Carnes,2,4.0,8.0
+2024-09-25,Arroz,Granos,2,1.2,2.4
+2024-10-17,Leche,Lácteos,6,0.9,5.4
+2024-08-21,Pollo,Carnes,1,3.5,3.5
+2024-08-13,Arroz,Granos,3,1.2,3.6
+2024-08-27,Aceite,Aceites,2,2.0,4.0
+2024-09-22,Pan,Panadería,4,0.5,2.0
+2024-11-01,Queso,Lácteos,3,2.5,7.5
+2024-09-03,Queso,Lácteos,6,2.5,15.0
+2024-09-08,Yogurt,Lácteos,4,1.1,4.4
+2024-08-13,Pan,Panadería,3,0.5,1.5
+2024-09-20,Arroz,Granos,3,1.2,3.6
+2024-10-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-20,Carne molida,Carnes,1,4.0,4.0
+2024-09-16,Arroz,Granos,2,1.2,2.4
+2024-09-24,Arroz,Granos,4,1.2,4.8
+2024-09-07,Frijoles,Granos,2,1.0,2.0
+2024-10-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-13,Pan,Panadería,1,0.5,0.5
+2024-08-27,Arroz,Granos,3,1.2,3.6
+2024-10-21,Leche,Lácteos,4,0.9,3.6
+2024-08-11,Yogurt,Lácteos,5,1.1,5.5
+2024-11-17,Carne molida,Carnes,3,4.0,12.0
+2024-09-09,Frijoles,Granos,4,1.0,4.0
+2024-09-30,Pollo,Carnes,4,3.5,14.0
+2024-11-23,Carne molida,Carnes,3,4.0,12.0
+2024-08-12,Yogurt,Lácteos,4,1.1,4.4
+2024-09-19,Queso,Lácteos,1,2.5,2.5
+2024-09-17,Leche,Lácteos,3,0.9,2.7
+2024-09-17,Pollo,Carnes,3,3.5,10.5
+2024-09-27,Leche,Lácteos,5,0.9,4.5
+2024-09-03,Arroz,Granos,3,1.2,3.6
+2024-09-29,Carne molida,Carnes,3,4.0,12.0
+2024-08-29,Yogurt,Lácteos,3,1.1,3.3
+2024-10-12,Yogurt,Lácteos,3,1.1,3.3
+2024-08-20,Arroz,Granos,2,1.2,2.4
+2024-08-11,Frijoles,Granos,3,1.0,3.0
+2024-11-12,Aceite,Aceites,4,2.0,8.0
+2024-09-22,Queso,Lácteos,2,2.5,5.0
+2024-08-30,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-08,Queso,Lácteos,4,2.5,10.0
+2024-11-13,Pollo,Carnes,2,3.5,7.0
+2024-09-23,Queso,Lácteos,2,2.5,5.0
+2024-10-27,Queso,Lácteos,5,2.5,12.5
+2024-10-13,Carne molida,Carnes,3,4.0,12.0
+2024-09-30,Pan,Panadería,2,0.5,1.0
+2024-08-11,Yogurt,Lácteos,2,1.1,2.2
+2024-11-24,Pollo,Carnes,1,3.5,3.5
+2024-10-04,Arroz,Granos,3,1.2,3.6
+2024-11-24,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-11,Queso,Lácteos,3,2.5,7.5
+2024-10-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-19,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-30,Frijoles,Granos,5,1.0,5.0
+2024-08-23,Carne molida,Carnes,2,4.0,8.0
+2024-08-28,Leche,Lácteos,2,0.9,1.8
+2024-08-17,Pan,Panadería,4,0.5,2.0
+2024-09-24,Arroz,Granos,2,1.2,2.4
+2024-10-27,Frijoles,Granos,2,1.0,2.0
+2024-08-26,Pollo,Carnes,4,3.5,14.0
+2024-11-15,Leche,Lácteos,3,0.9,2.7
+2024-09-03,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-25,Aceite,Aceites,3,2.0,6.0
+2024-08-12,Frijoles,Granos,3,1.0,3.0
+2024-10-11,Pollo,Carnes,4,3.5,14.0
+2024-10-10,Pollo,Carnes,4,3.5,14.0
+2024-11-18,Aceite,Aceites,6,2.0,12.0
+2024-10-06,Yogurt,Lácteos,2,1.1,2.2
+2024-11-26,Carne molida,Carnes,4,4.0,16.0
+2024-11-09,Arroz,Granos,2,1.2,2.4
+2024-10-15,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-09,Queso,Lácteos,3,2.5,7.5
+2024-08-15,Pollo,Carnes,4,3.5,14.0
+2024-08-20,Pollo,Carnes,2,3.5,7.0
+2024-10-12,Leche,Lácteos,5,0.9,4.5
+2024-10-14,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-27,Frijoles,Granos,1,1.0,1.0
+2024-10-12,Frijoles,Granos,3,1.0,3.0
+2024-11-09,Frijoles,Granos,1,1.0,1.0
+2024-11-20,Yogurt,Lácteos,5,1.1,5.5
+2024-11-21,Queso,Lácteos,2,2.5,5.0
+2024-11-21,Aceite,Aceites,3,2.0,6.0
+2024-09-03,Pollo,Carnes,2,3.5,7.0
+2024-10-23,Pollo,Carnes,2,3.5,7.0
+2024-10-13,Carne molida,Carnes,2,4.0,8.0
+2024-09-30,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-23,Arroz,Granos,2,1.2,2.4
+2024-09-21,Yogurt,Lácteos,3,1.1,3.3
+2024-10-19,Leche,Lácteos,4,0.9,3.6
+2024-10-27,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-05,Pollo,Carnes,3,3.5,10.5
+2024-11-22,Pollo,Carnes,3,3.5,10.5
+2024-10-28,Aceite,Aceites,4,2.0,8.0
+2024-08-07,Pan,Panadería,4,0.5,2.0
+2024-11-26,Carne molida,Carnes,3,4.0,12.0
+2024-11-23,Yogurt,Lácteos,4,1.1,4.4
+2024-08-03,Aceite,Aceites,2,2.0,4.0
+2024-11-13,Aceite,Aceites,5,2.0,10.0
+2024-09-09,Yogurt,Lácteos,1,1.1,1.1
+2024-11-16,Yogurt,Lácteos,6,1.1,6.6
+2024-11-18,Carne molida,Carnes,3,4.0,12.0
+2024-11-20,Frijoles,Granos,2,1.0,2.0
+2024-08-18,Pan,Panadería,2,0.5,1.0
+2024-11-04,Yogurt,Lácteos,2,1.1,2.2
+2024-11-08,Carne molida,Carnes,3,4.0,12.0
+2024-09-04,Aceite,Aceites,2,2.0,4.0
+2024-10-17,Pollo,Carnes,5,3.5,17.5
+2024-08-25,Frijoles,Granos,4,1.0,4.0
+2024-08-28,Carne molida,Carnes,1,4.0,4.0
+2024-11-03,Pollo,Carnes,3,3.5,10.5
+2024-11-06,Carne molida,Carnes,1,4.0,4.0
+2024-11-20,Queso,Lácteos,1,2.5,2.5
+2024-11-14,Aceite,Aceites,3,2.0,6.0
+2024-10-05,Arroz,Granos,4,1.2,4.8
+2024-08-09,Leche,Lácteos,3,0.9,2.7
+2024-10-30,Yogurt,Lácteos,3,1.1,3.3
+2024-09-21,Queso,Lácteos,2,2.5,5.0
+2024-11-08,Leche,Lácteos,1,0.9,0.9
+2024-11-21,Queso,Lácteos,3,2.5,7.5
+2024-08-04,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-25,Leche,Lácteos,4,0.9,3.6
+2024-11-16,Pan,Panadería,4,0.5,2.0
+2024-09-01,Arroz,Granos,4,1.2,4.8
+2024-09-28,Arroz,Granos,1,1.2,1.2
+2024-11-26,Arroz,Granos,2,1.2,2.4
+2024-10-30,Aceite,Aceites,3,2.0,6.0
+2024-09-05,Pan,Panadería,2,0.5,1.0
+2024-11-14,Aceite,Aceites,5,2.0,10.0
+2024-10-04,Carne molida,Carnes,1,4.0,4.0
+2024-10-21,Pollo,Carnes,2,3.5,7.0
+2024-10-27,Frijoles,Granos,5,1.0,5.0
+2024-08-31,Arroz,Granos,2,1.2,2.4
+2024-10-02,Aceite,Aceites,3,2.0,6.0
+2024-09-27,Jugo natural,Bebidas,5,1.8,9.0
+2024-12-01,Leche,Lácteos,3,0.9,2.7
+2024-10-15,Carne molida,Carnes,4,4.0,16.0
+2024-09-14,Queso,Lácteos,2,2.5,5.0
+2024-08-21,Aceite,Aceites,3,2.0,6.0
+2024-11-04,Yogurt,Lácteos,2,1.1,2.2
+2024-09-06,Frijoles,Granos,4,1.0,4.0
+2024-09-19,Arroz,Granos,4,1.2,4.8
+2024-08-21,Arroz,Granos,2,1.2,2.4
+2024-11-08,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-18,Pan,Panadería,4,0.5,2.0
+2024-10-22,Pan,Panadería,4,0.5,2.0
+2024-10-26,Pan,Panadería,3,0.5,1.5
+2024-09-04,Pan,Panadería,1,0.5,0.5
+2024-10-05,Pollo,Carnes,5,3.5,17.5
+2024-11-19,Arroz,Granos,2,1.2,2.4
+2024-09-30,Arroz,Granos,3,1.2,3.6
+2024-10-22,Leche,Lácteos,3,0.9,2.7
+2024-10-16,Leche,Lácteos,2,0.9,1.8
+2024-08-29,Arroz,Granos,3,1.2,3.6
+2024-10-17,Yogurt,Lácteos,7,1.1,7.7
+2024-10-31,Yogurt,Lácteos,1,1.1,1.1
+2024-09-24,Yogurt,Lácteos,5,1.1,5.5
+2024-11-18,Pollo,Carnes,3,3.5,10.5
+2024-09-28,Aceite,Aceites,2,2.0,4.0
+2024-08-28,Yogurt,Lácteos,3,1.1,3.3
+2024-09-08,Carne molida,Carnes,5,4.0,20.0
+2024-11-14,Queso,Lácteos,2,2.5,5.0
+2024-09-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-14,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-05,Arroz,Granos,6,1.2,7.2
+2024-10-11,Aceite,Aceites,2,2.0,4.0
+2024-10-17,Jugo natural,Bebidas,1,1.8,1.8
+2024-09-08,Yogurt,Lácteos,3,1.1,3.3
+2024-10-01,Frijoles,Granos,2,1.0,2.0
+2024-09-13,Frijoles,Granos,1,1.0,1.0
+2024-10-21,Yogurt,Lácteos,2,1.1,2.2
+2024-11-19,Aceite,Aceites,2,2.0,4.0
+2024-09-03,Yogurt,Lácteos,3,1.1,3.3
+2024-08-25,Yogurt,Lácteos,3,1.1,3.3
+2024-10-06,Leche,Lácteos,3,0.9,2.7
+2024-11-24,Pan,Panadería,1,0.5,0.5
+2024-11-12,Arroz,Granos,4,1.2,4.8
+2024-09-21,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-27,Aceite,Aceites,2,2.0,4.0
+2024-11-01,Leche,Lácteos,4,0.9,3.6
+2024-10-23,Arroz,Granos,2,1.2,2.4
+2024-09-07,Carne molida,Carnes,1,4.0,4.0
+2024-11-25,Yogurt,Lácteos,2,1.1,2.2
+2024-09-21,Pollo,Carnes,3,3.5,10.5
+2024-11-03,Pollo,Carnes,3,3.5,10.5
+2024-10-14,Arroz,Granos,2,1.2,2.4
+2024-11-13,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-13,Pan,Panadería,5,0.5,2.5
+2024-10-27,Pan,Panadería,4,0.5,2.0
+2024-10-21,Queso,Lácteos,1,2.5,2.5
+2024-11-25,Carne molida,Carnes,2,4.0,8.0
+2024-10-04,Aceite,Aceites,4,2.0,8.0
+2024-11-17,Yogurt,Lácteos,4,1.1,4.4
+2024-11-16,Leche,Lácteos,2,0.9,1.8
+2024-08-24,Queso,Lácteos,3,2.5,7.5
+2024-08-13,Yogurt,Lácteos,4,1.1,4.4
+2024-08-17,Carne molida,Carnes,2,4.0,8.0
+2024-11-01,Yogurt,Lácteos,1,1.1,1.1
+2024-11-06,Queso,Lácteos,3,2.5,7.5
+2024-11-30,Leche,Lácteos,4,0.9,3.6
+2024-10-23,Aceite,Aceites,3,2.0,6.0
+2024-08-29,Frijoles,Granos,4,1.0,4.0
+2024-08-29,Aceite,Aceites,1,2.0,2.0
+2024-09-23,Yogurt,Lácteos,3,1.1,3.3
+2024-09-17,Aceite,Aceites,5,2.0,10.0
+2024-10-14,Yogurt,Lácteos,5,1.1,5.5
+2024-09-29,Yogurt,Lácteos,3,1.1,3.3
+2024-09-30,Frijoles,Granos,3,1.0,3.0
+2024-11-19,Arroz,Granos,2,1.2,2.4
+2024-10-14,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-10,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-22,Carne molida,Carnes,3,4.0,12.0
+2024-10-04,Pan,Panadería,1,0.5,0.5
+2024-11-20,Frijoles,Granos,2,1.0,2.0
+2024-10-07,Pollo,Carnes,4,3.5,14.0
+2024-09-22,Yogurt,Lácteos,1,1.1,1.1
+2024-11-20,Arroz,Granos,3,1.2,3.6
+2024-08-18,Leche,Lácteos,2,0.9,1.8
+2024-09-13,Pan,Panadería,3,0.5,1.5
+2024-10-12,Pollo,Carnes,1,3.5,3.5
+2024-08-19,Carne molida,Carnes,3,4.0,12.0
+2024-11-19,Aceite,Aceites,2,2.0,4.0
+2024-11-08,Leche,Lácteos,4,0.9,3.6
+2024-10-02,Frijoles,Granos,4,1.0,4.0
+2024-10-20,Aceite,Aceites,3,2.0,6.0
+2024-09-10,Leche,Lácteos,3,0.9,2.7
+2024-08-01,Arroz,Granos,3,1.2,3.6
+2024-09-05,Carne molida,Carnes,1,4.0,4.0
+2024-11-06,Pan,Panadería,3,0.5,1.5
+2024-10-13,Leche,Lácteos,3,0.9,2.7
+2024-10-02,Leche,Lácteos,2,0.9,1.8
+2024-08-17,Frijoles,Granos,4,1.0,4.0
+2024-09-25,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-21,Pollo,Carnes,2,3.5,7.0
+2024-10-01,Pollo,Carnes,3,3.5,10.5
+2024-08-01,Pollo,Carnes,2,3.5,7.0
+2024-10-08,Arroz,Granos,2,1.2,2.4
+2024-11-02,Pan,Panadería,1,0.5,0.5
+2024-11-30,Aceite,Aceites,4,2.0,8.0
+2024-11-23,Arroz,Granos,3,1.2,3.6
+2024-11-05,Aceite,Aceites,3,2.0,6.0
+2024-08-25,Queso,Lácteos,5,2.5,12.5
+2024-10-26,Arroz,Granos,2,1.2,2.4
+2024-10-20,Arroz,Granos,4,1.2,4.8
+2024-08-29,Pan,Panadería,3,0.5,1.5
+2024-09-09,Aceite,Aceites,3,2.0,6.0
+2024-08-14,Leche,Lácteos,2,0.9,1.8
+2024-10-04,Pollo,Carnes,4,3.5,14.0
+2024-09-09,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-09,Leche,Lácteos,3,0.9,2.7
+2024-09-08,Arroz,Granos,2,1.2,2.4
+2024-09-28,Yogurt,Lácteos,4,1.1,4.4
+2024-10-16,Queso,Lácteos,4,2.5,10.0
+2024-09-13,Queso,Lácteos,2,2.5,5.0
+2024-11-22,Pollo,Carnes,3,3.5,10.5
+2024-09-13,Leche,Lácteos,1,0.9,0.9
+2024-09-15,Carne molida,Carnes,3,4.0,12.0
+2024-08-22,Pan,Panadería,3,0.5,1.5
+2024-08-03,Pollo,Carnes,1,3.5,3.5
+2024-08-29,Pan,Panadería,4,0.5,2.0
+2024-08-28,Leche,Lácteos,5,0.9,4.5
+2024-10-15,Arroz,Granos,1,1.2,1.2
+2024-08-22,Queso,Lácteos,4,2.5,10.0
+2024-09-16,Frijoles,Granos,2,1.0,2.0
+2024-09-18,Arroz,Granos,3,1.2,3.6
+2024-11-07,Yogurt,Lácteos,4,1.1,4.4
+2024-10-19,Queso,Lácteos,3,2.5,7.5
+2024-10-16,Arroz,Granos,1,1.2,1.2
+2024-10-24,Arroz,Granos,1,1.2,1.2
+2024-10-23,Frijoles,Granos,2,1.0,2.0
+2024-08-07,Arroz,Granos,5,1.2,6.0
+2024-09-23,Frijoles,Granos,2,1.0,2.0
+2024-09-18,Carne molida,Carnes,1,4.0,4.0
+2024-10-10,Frijoles,Granos,3,1.0,3.0
+2024-09-30,Yogurt,Lácteos,1,1.1,1.1
+2024-08-27,Leche,Lácteos,4,0.9,3.6
+2024-09-08,Arroz,Granos,4,1.2,4.8
+2024-10-24,Pollo,Carnes,3,3.5,10.5
+2024-10-24,Frijoles,Granos,5,1.0,5.0
+2024-09-04,Queso,Lácteos,1,2.5,2.5
+2024-10-17,Jugo natural,Bebidas,5,1.8,9.0
+2024-09-23,Leche,Lácteos,2,0.9,1.8
+2024-10-05,Frijoles,Granos,3,1.0,3.0
+2024-08-16,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-15,Yogurt,Lácteos,2,1.1,2.2
+2024-10-03,Frijoles,Granos,5,1.0,5.0
+2024-10-17,Pan,Panadería,1,0.5,0.5
+2024-11-08,Pan,Panadería,1,0.5,0.5
+2024-11-15,Yogurt,Lácteos,4,1.1,4.4
+2024-08-26,Queso,Lácteos,2,2.5,5.0
+2024-10-30,Aceite,Aceites,3,2.0,6.0
+2024-09-07,Pollo,Carnes,2,3.5,7.0
+2024-08-06,Leche,Lácteos,3,0.9,2.7
+2024-10-03,Queso,Lácteos,4,2.5,10.0
+2024-10-28,Pan,Panadería,4,0.5,2.0
+2024-09-12,Carne molida,Carnes,2,4.0,8.0
+2024-08-01,Pan,Panadería,2,0.5,1.0
+2024-10-25,Arroz,Granos,2,1.2,2.4
+2024-11-25,Frijoles,Granos,3,1.0,3.0
+2024-11-15,Frijoles,Granos,3,1.0,3.0
+2024-10-25,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-20,Carne molida,Carnes,5,4.0,20.0
+2024-11-08,Frijoles,Granos,5,1.0,5.0
+2024-08-10,Queso,Lácteos,3,2.5,7.5
+2024-11-24,Frijoles,Granos,3,1.0,3.0
+2024-10-22,Yogurt,Lácteos,1,1.1,1.1
+2024-09-28,Pan,Panadería,3,0.5,1.5
+2024-09-03,Yogurt,Lácteos,2,1.1,2.2
+2024-08-07,Carne molida,Carnes,3,4.0,12.0
+2024-11-13,Frijoles,Granos,3,1.0,3.0
+2024-11-20,Leche,Lácteos,2,0.9,1.8
+2024-11-18,Arroz,Granos,6,1.2,7.2
+2024-09-16,Yogurt,Lácteos,2,1.1,2.2
+2024-09-24,Aceite,Aceites,4,2.0,8.0
+2024-08-13,Frijoles,Granos,3,1.0,3.0
+2024-08-02,Arroz,Granos,4,1.2,4.8
+2024-10-24,Leche,Lácteos,5,0.9,4.5
+2024-09-12,Leche,Lácteos,2,0.9,1.8
+2024-11-23,Aceite,Aceites,1,2.0,2.0
+2024-12-01,Carne molida,Carnes,5,4.0,20.0
+2024-09-04,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-17,Frijoles,Granos,2,1.0,2.0
+2024-08-24,Aceite,Aceites,3,2.0,6.0
+2024-09-21,Frijoles,Granos,5,1.0,5.0
+2024-09-28,Pollo,Carnes,4,3.5,14.0
+2024-11-15,Yogurt,Lácteos,2,1.1,2.2
+2024-10-28,Pollo,Carnes,1,3.5,3.5
+2024-11-11,Carne molida,Carnes,5,4.0,20.0
+2024-10-23,Pollo,Carnes,2,3.5,7.0
+2024-08-15,Leche,Lácteos,2,0.9,1.8
+2024-10-29,Leche,Lácteos,4,0.9,3.6
+2024-11-29,Arroz,Granos,4,1.2,4.8
+2024-08-14,Leche,Lácteos,3,0.9,2.7
+2024-11-25,Pollo,Carnes,1,3.5,3.5
+2024-10-01,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-24,Carne molida,Carnes,2,4.0,8.0
+2024-09-18,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-18,Aceite,Aceites,2,2.0,4.0
+2024-11-19,Arroz,Granos,2,1.2,2.4
+2024-10-01,Leche,Lácteos,3,0.9,2.7
+2024-08-15,Carne molida,Carnes,2,4.0,8.0
+2024-09-26,Pollo,Carnes,4,3.5,14.0
+2024-08-09,Arroz,Granos,2,1.2,2.4
+2024-10-23,Yogurt,Lácteos,2,1.1,2.2
+2024-08-02,Aceite,Aceites,5,2.0,10.0
+2024-11-07,Queso,Lácteos,2,2.5,5.0
+2024-11-01,Jugo natural,Bebidas,4,1.8,7.2
+2024-08-29,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-06,Aceite,Aceites,1,2.0,2.0
+2024-10-28,Queso,Lácteos,4,2.5,10.0
+2024-08-13,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-24,Pollo,Carnes,1,3.5,3.5
+2024-10-01,Pan,Panadería,4,0.5,2.0
+2024-10-24,Aceite,Aceites,2,2.0,4.0
+2024-08-20,Pollo,Carnes,2,3.5,7.0
+2024-11-23,Queso,Lácteos,5,2.5,12.5
+2024-08-07,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-22,Arroz,Granos,4,1.2,4.8
+2024-10-04,Leche,Lácteos,3,0.9,2.7
+2024-11-18,Carne molida,Carnes,2,4.0,8.0
+2024-11-20,Carne molida,Carnes,1,4.0,4.0
+2024-08-10,Leche,Lácteos,3,0.9,2.7
+2024-09-11,Carne molida,Carnes,1,4.0,4.0
+2024-09-12,Pan,Panadería,4,0.5,2.0
+2024-08-07,Yogurt,Lácteos,2,1.1,2.2
+2024-08-29,Queso,Lácteos,1,2.5,2.5
+2024-10-22,Queso,Lácteos,2,2.5,5.0
+2024-09-21,Pollo,Carnes,2,3.5,7.0
+2024-08-11,Pan,Panadería,5,0.5,2.5
+2024-09-26,Carne molida,Carnes,4,4.0,16.0
+2024-09-27,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-18,Frijoles,Granos,2,1.0,2.0
+2024-09-27,Carne molida,Carnes,3,4.0,12.0
+2024-08-16,Aceite,Aceites,4,2.0,8.0
+2024-11-04,Carne molida,Carnes,4,4.0,16.0
+2024-08-14,Arroz,Granos,5,1.2,6.0
+2024-09-22,Pollo,Carnes,1,3.5,3.5
+2024-10-11,Arroz,Granos,1,1.2,1.2
+2024-08-01,Queso,Lácteos,4,2.5,10.0
+2024-11-10,Frijoles,Granos,3,1.0,3.0
+2024-10-19,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-22,Yogurt,Lácteos,2,1.1,2.2
+2024-10-11,Queso,Lácteos,2,2.5,5.0
+2024-10-23,Pan,Panadería,4,0.5,2.0
+2024-11-30,Carne molida,Carnes,2,4.0,8.0
+2024-09-16,Aceite,Aceites,1,2.0,2.0
+2024-11-13,Arroz,Granos,2,1.2,2.4
+2024-11-17,Pan,Panadería,6,0.5,3.0
+2024-09-12,Carne molida,Carnes,2,4.0,8.0
+2024-11-07,Queso,Lácteos,1,2.5,2.5
+2024-10-16,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-31,Carne molida,Carnes,3,4.0,12.0
+2024-10-31,Aceite,Aceites,2,2.0,4.0
+2024-08-15,Carne molida,Carnes,2,4.0,8.0
+2024-11-06,Frijoles,Granos,5,1.0,5.0
+2024-08-01,Pan,Panadería,2,0.5,1.0
+2024-09-15,Aceite,Aceites,3,2.0,6.0
+2024-10-10,Yogurt,Lácteos,3,1.1,3.3
+2024-09-17,Queso,Lácteos,2,2.5,5.0
+2024-08-06,Frijoles,Granos,5,1.0,5.0
+2024-10-03,Leche,Lácteos,2,0.9,1.8
+2024-11-14,Leche,Lácteos,1,0.9,0.9
+2024-08-14,Pollo,Carnes,3,3.5,10.5
+2024-10-18,Yogurt,Lácteos,1,1.1,1.1
+2024-08-25,Pan,Panadería,4,0.5,2.0
+2024-11-28,Frijoles,Granos,1,1.0,1.0
+2024-08-28,Pollo,Carnes,6,3.5,21.0
+2024-11-14,Carne molida,Carnes,4,4.0,16.0
+2024-10-31,Pan,Panadería,2,0.5,1.0
+2024-08-14,Aceite,Aceites,3,2.0,6.0
+2024-08-06,Pollo,Carnes,3,3.5,10.5
+2024-08-16,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-28,Carne molida,Carnes,2,4.0,8.0
+2024-12-01,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-18,Queso,Lácteos,2,2.5,5.0
+2024-08-01,Carne molida,Carnes,5,4.0,20.0
+2024-11-03,Queso,Lácteos,1,2.5,2.5
+2024-10-10,Arroz,Granos,3,1.2,3.6
+2024-11-16,Pollo,Carnes,3,3.5,10.5
+2024-10-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-08,Queso,Lácteos,5,2.5,12.5
+2024-10-28,Leche,Lácteos,3,0.9,2.7
+2024-08-23,Jugo natural,Bebidas,5,1.8,9.0
+2024-08-14,Leche,Lácteos,3,0.9,2.7
+2024-10-24,Pollo,Carnes,4,3.5,14.0
+2024-10-17,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-04,Aceite,Aceites,2,2.0,4.0
+2024-09-23,Pollo,Carnes,1,3.5,3.5
+2024-11-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-05,Pan,Panadería,3,0.5,1.5
+2024-09-13,Pollo,Carnes,3,3.5,10.5
+2024-09-27,Yogurt,Lácteos,5,1.1,5.5
+2024-08-18,Leche,Lácteos,2,0.9,1.8
+2024-10-17,Pollo,Carnes,4,3.5,14.0
+2024-09-08,Queso,Lácteos,5,2.5,12.5
+2024-11-19,Queso,Lácteos,5,2.5,12.5
+2024-10-31,Aceite,Aceites,2,2.0,4.0
+2024-10-20,Queso,Lácteos,3,2.5,7.5
+2024-08-26,Pan,Panadería,4,0.5,2.0
+2024-10-19,Pan,Panadería,1,0.5,0.5
+2024-10-27,Yogurt,Lácteos,2,1.1,2.2
+2024-11-26,Aceite,Aceites,3,2.0,6.0
+2024-10-30,Leche,Lácteos,4,0.9,3.6
+2024-10-04,Leche,Lácteos,3,0.9,2.7
+2024-10-28,Queso,Lácteos,2,2.5,5.0
+2024-10-30,Aceite,Aceites,2,2.0,4.0
+2024-11-06,Frijoles,Granos,1,1.0,1.0
+2024-10-11,Aceite,Aceites,3,2.0,6.0
+2024-10-14,Carne molida,Carnes,3,4.0,12.0
+2024-11-29,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-26,Pollo,Carnes,3,3.5,10.5
+2024-09-06,Queso,Lácteos,4,2.5,10.0
+2024-11-12,Pollo,Carnes,3,3.5,10.5
+2024-10-06,Arroz,Granos,3,1.2,3.6
+2024-08-04,Frijoles,Granos,4,1.0,4.0
+2024-08-19,Pollo,Carnes,3,3.5,10.5
+2024-10-25,Arroz,Granos,3,1.2,3.6
+2024-08-26,Arroz,Granos,2,1.2,2.4
+2024-11-05,Yogurt,Lácteos,5,1.1,5.5
+2024-09-06,Leche,Lácteos,6,0.9,5.4
+2024-08-19,Yogurt,Lácteos,2,1.1,2.2
+2024-10-28,Arroz,Granos,2,1.2,2.4
+2024-08-27,Yogurt,Lácteos,5,1.1,5.5
+2024-08-05,Queso,Lácteos,3,2.5,7.5
+2024-11-13,Aceite,Aceites,5,2.0,10.0
+2024-08-14,Carne molida,Carnes,4,4.0,16.0
+2024-11-20,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-19,Queso,Lácteos,3,2.5,7.5
+2024-11-04,Pan,Panadería,1,0.5,0.5
+2024-09-19,Queso,Lácteos,3,2.5,7.5
+2024-10-05,Pan,Panadería,1,0.5,0.5
+2024-10-28,Yogurt,Lácteos,5,1.1,5.5
+2024-11-27,Arroz,Granos,4,1.2,4.8
+2024-09-19,Pollo,Carnes,4,3.5,14.0
+2024-12-01,Pollo,Carnes,1,3.5,3.5
+2024-10-10,Aceite,Aceites,5,2.0,10.0
+2024-08-02,Arroz,Granos,3,1.2,3.6
+2024-08-26,Yogurt,Lácteos,2,1.1,2.2
+2024-11-20,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-15,Carne molida,Carnes,4,4.0,16.0
+2024-11-25,Pan,Panadería,3,0.5,1.5
+2024-11-05,Aceite,Aceites,2,2.0,4.0
+2024-10-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-26,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-07,Pan,Panadería,3,0.5,1.5
+2024-08-23,Carne molida,Carnes,4,4.0,16.0
+2024-08-24,Frijoles,Granos,3,1.0,3.0
+2024-11-03,Leche,Lácteos,2,0.9,1.8
+2024-08-16,Queso,Lácteos,1,2.5,2.5
+2024-08-06,Pollo,Carnes,1,3.5,3.5
+2024-09-05,Pollo,Carnes,2,3.5,7.0
+2024-09-03,Queso,Lácteos,3,2.5,7.5
+2024-08-21,Leche,Lácteos,3,0.9,2.7
+2024-11-17,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-01,Yogurt,Lácteos,2,1.1,2.2
+2024-09-29,Aceite,Aceites,2,2.0,4.0
+2024-08-06,Leche,Lácteos,3,0.9,2.7
+2024-11-27,Leche,Lácteos,1,0.9,0.9
+2024-10-16,Aceite,Aceites,2,2.0,4.0
+2024-11-08,Arroz,Granos,4,1.2,4.8
+2024-11-16,Jugo natural,Bebidas,1,1.8,1.8
+2024-10-02,Yogurt,Lácteos,1,1.1,1.1
+2024-10-10,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-10,Aceite,Aceites,2,2.0,4.0
+2024-10-07,Aceite,Aceites,1,2.0,2.0
+2024-12-01,Pan,Panadería,3,0.5,1.5
+2024-10-06,Leche,Lácteos,3,0.9,2.7
+2024-11-09,Frijoles,Granos,3,1.0,3.0
+2024-08-21,Queso,Lácteos,1,2.5,2.5
+2024-10-09,Pollo,Carnes,4,3.5,14.0
+2024-09-21,Queso,Lácteos,1,2.5,2.5
+2024-09-14,Frijoles,Granos,3,1.0,3.0
+2024-11-22,Pan,Panadería,4,0.5,2.0
+2024-10-24,Pan,Panadería,5,0.5,2.5
+2024-09-12,Aceite,Aceites,3,2.0,6.0
+2024-09-07,Aceite,Aceites,3,2.0,6.0
+2024-11-30,Pan,Panadería,2,0.5,1.0
+2024-10-07,Jugo natural,Bebidas,5,1.8,9.0
+2024-10-11,Carne molida,Carnes,4,4.0,16.0
+2024-08-15,Arroz,Granos,4,1.2,4.8
+2024-09-27,Aceite,Aceites,3,2.0,6.0
+2024-11-24,Pan,Panadería,2,0.5,1.0
+2024-11-26,Jugo natural,Bebidas,4,1.8,7.2
+2024-09-01,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-27,Arroz,Granos,1,1.2,1.2
+2024-09-18,Aceite,Aceites,4,2.0,8.0
+2024-09-19,Frijoles,Granos,3,1.0,3.0
+2024-10-09,Yogurt,Lácteos,4,1.1,4.4
+2024-08-04,Yogurt,Lácteos,4,1.1,4.4
+2024-11-14,Queso,Lácteos,1,2.5,2.5
+2024-10-05,Aceite,Aceites,4,2.0,8.0
+2024-09-27,Queso,Lácteos,3,2.5,7.5
+2024-08-06,Carne molida,Carnes,3,4.0,12.0
+2024-11-23,Yogurt,Lácteos,4,1.1,4.4
+2024-09-11,Pan,Panadería,2,0.5,1.0
+2024-08-11,Queso,Lácteos,2,2.5,5.0
+2024-08-22,Frijoles,Granos,3,1.0,3.0
+2024-10-08,Queso,Lácteos,2,2.5,5.0
+2024-10-20,Arroz,Granos,1,1.2,1.2
+2024-08-27,Frijoles,Granos,3,1.0,3.0
+2024-11-19,Pan,Panadería,5,0.5,2.5
+2024-11-15,Pollo,Carnes,3,3.5,10.5
+2024-08-27,Frijoles,Granos,1,1.0,1.0
+2024-11-15,Queso,Lácteos,2,2.5,5.0
+2024-10-22,Pollo,Carnes,6,3.5,21.0
+2024-11-04,Frijoles,Granos,5,1.0,5.0
+2024-08-04,Leche,Lácteos,5,0.9,4.5
+2024-10-31,Carne molida,Carnes,5,4.0,20.0
+2024-08-05,Aceite,Aceites,4,2.0,8.0
+2024-08-10,Frijoles,Granos,3,1.0,3.0
+2024-08-23,Arroz,Granos,2,1.2,2.4
+2024-10-11,Yogurt,Lácteos,2,1.1,2.2
+2024-10-13,Frijoles,Granos,2,1.0,2.0
+2024-11-25,Pan,Panadería,1,0.5,0.5
+2024-09-22,Yogurt,Lácteos,2,1.1,2.2
+2024-09-27,Pollo,Carnes,5,3.5,17.5
+2024-09-25,Pollo,Carnes,1,3.5,3.5
+2024-08-03,Aceite,Aceites,2,2.0,4.0
+2024-10-26,Pollo,Carnes,4,3.5,14.0
+2024-10-08,Frijoles,Granos,2,1.0,2.0
+2024-10-22,Arroz,Granos,3,1.2,3.6
+2024-08-09,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-06,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-15,Frijoles,Granos,4,1.0,4.0
+2024-08-14,Queso,Lácteos,2,2.5,5.0
+2024-11-09,Yogurt,Lácteos,6,1.1,6.6
+2024-10-17,Yogurt,Lácteos,6,1.1,6.6
+2024-09-06,Frijoles,Granos,2,1.0,2.0
+2024-09-18,Carne molida,Carnes,1,4.0,4.0
+2024-11-14,Pollo,Carnes,2,3.5,7.0
+2024-09-30,Arroz,Granos,4,1.2,4.8
+2024-10-08,Leche,Lácteos,2,0.9,1.8
+2024-08-18,Pan,Panadería,1,0.5,0.5
+2024-11-10,Pollo,Carnes,4,3.5,14.0
+2024-09-07,Queso,Lácteos,3,2.5,7.5
+2024-09-08,Leche,Lácteos,1,0.9,0.9
+2024-12-01,Aceite,Aceites,1,2.0,2.0
+2024-10-10,Arroz,Granos,2,1.2,2.4
+2024-08-19,Queso,Lácteos,3,2.5,7.5
+2024-08-06,Frijoles,Granos,2,1.0,2.0
+2024-10-13,Arroz,Granos,1,1.2,1.2
+2024-09-20,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-10,Queso,Lácteos,1,2.5,2.5
+2024-09-09,Frijoles,Granos,3,1.0,3.0
+2024-11-04,Pan,Panadería,2,0.5,1.0
+2024-08-28,Aceite,Aceites,2,2.0,4.0
+2024-11-24,Pollo,Carnes,4,3.5,14.0
+2024-08-19,Queso,Lácteos,3,2.5,7.5
+2024-08-24,Leche,Lácteos,4,0.9,3.6
+2024-10-18,Pan,Panadería,4,0.5,2.0
+2024-08-25,Yogurt,Lácteos,6,1.1,6.6
+2024-08-24,Frijoles,Granos,3,1.0,3.0
+2024-11-18,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-17,Arroz,Granos,2,1.2,2.4
+2024-09-29,Queso,Lácteos,2,2.5,5.0
+2024-08-10,Queso,Lácteos,3,2.5,7.5
+2024-10-25,Yogurt,Lácteos,4,1.1,4.4
+2024-09-02,Frijoles,Granos,5,1.0,5.0
+2024-08-26,Frijoles,Granos,1,1.0,1.0
+2024-10-02,Jugo natural,Bebidas,2,1.8,3.6
+2024-09-15,Aceite,Aceites,3,2.0,6.0
+2024-10-25,Leche,Lácteos,3,0.9,2.7
+2024-08-13,Pan,Panadería,4,0.5,2.0
+2024-10-19,Yogurt,Lácteos,2,1.1,2.2
+2024-11-24,Frijoles,Granos,2,1.0,2.0
+2024-09-10,Pan,Panadería,3,0.5,1.5
+2024-09-27,Carne molida,Carnes,1,4.0,4.0
+2024-10-18,Aceite,Aceites,4,2.0,8.0
+2024-10-28,Yogurt,Lácteos,4,1.1,4.4
+2024-08-20,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-12,Jugo natural,Bebidas,4,1.8,7.2
+2024-11-12,Aceite,Aceites,3,2.0,6.0
+2024-12-01,Aceite,Aceites,6,2.0,12.0
+2024-08-22,Pollo,Carnes,4,3.5,14.0
+2024-09-10,Arroz,Granos,2,1.2,2.4
+2024-11-09,Pan,Panadería,5,0.5,2.5
+2024-10-31,Pan,Panadería,3,0.5,1.5
+2024-09-05,Pollo,Carnes,3,3.5,10.5
+2024-08-18,Aceite,Aceites,1,2.0,2.0
+2024-11-21,Aceite,Aceites,2,2.0,4.0
+2024-09-29,Carne molida,Carnes,3,4.0,12.0
+2024-09-15,Carne molida,Carnes,2,4.0,8.0
+2024-10-02,Yogurt,Lácteos,4,1.1,4.4
+2024-08-14,Queso,Lácteos,6,2.5,15.0
+2024-10-22,Leche,Lácteos,3,0.9,2.7
+2024-08-11,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-18,Yogurt,Lácteos,3,1.1,3.3
+2024-11-23,Leche,Lácteos,2,0.9,1.8
+2024-08-26,Queso,Lácteos,2,2.5,5.0
+2024-11-02,Yogurt,Lácteos,4,1.1,4.4
+2024-11-02,Frijoles,Granos,5,1.0,5.0
+2024-11-23,Frijoles,Granos,3,1.0,3.0
+2024-11-17,Arroz,Granos,5,1.2,6.0
+2024-10-20,Queso,Lácteos,3,2.5,7.5
+2024-11-13,Arroz,Granos,4,1.2,4.8
+2024-10-14,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-07,Pollo,Carnes,4,3.5,14.0
+2024-08-28,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-10,Arroz,Granos,4,1.2,4.8
+2024-10-09,Yogurt,Lácteos,1,1.1,1.1
+2024-09-30,Queso,Lácteos,3,2.5,7.5
+2024-09-16,Leche,Lácteos,3,0.9,2.7
+2024-08-29,Pollo,Carnes,4,3.5,14.0
+2024-11-02,Jugo natural,Bebidas,3,1.8,5.4
+2024-08-18,Yogurt,Lácteos,1,1.1,1.1
+2024-10-04,Carne molida,Carnes,2,4.0,8.0
+2024-08-12,Queso,Lácteos,5,2.5,12.5
+2024-09-16,Pollo,Carnes,3,3.5,10.5
+2024-08-02,Queso,Lácteos,3,2.5,7.5
+2024-11-17,Pan,Panadería,2,0.5,1.0
+2024-10-27,Jugo natural,Bebidas,3,1.8,5.4
+2024-11-05,Leche,Lácteos,2,0.9,1.8
+2024-08-18,Queso,Lácteos,3,2.5,7.5
+2024-08-21,Carne molida,Carnes,2,4.0,8.0
+2024-10-12,Leche,Lácteos,3,0.9,2.7
+2024-10-24,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-03,Leche,Lácteos,4,0.9,3.6
+2024-11-29,Carne molida,Carnes,2,4.0,8.0
+2024-08-06,Aceite,Aceites,3,2.0,6.0
+2024-11-06,Pan,Panadería,2,0.5,1.0
+2024-08-30,Carne molida,Carnes,1,4.0,4.0
+2024-09-03,Frijoles,Granos,2,1.0,2.0
+2024-08-30,Aceite,Aceites,3,2.0,6.0
+2024-10-25,Arroz,Granos,1,1.2,1.2
+2024-10-06,Pan,Panadería,3,0.5,1.5
+2024-09-19,Aceite,Aceites,3,2.0,6.0
+2024-11-26,Carne molida,Carnes,1,4.0,4.0
+2024-11-21,Carne molida,Carnes,2,4.0,8.0
+2024-08-06,Arroz,Granos,3,1.2,3.6
+2024-08-14,Aceite,Aceites,1,2.0,2.0
+2024-10-21,Queso,Lácteos,5,2.5,12.5
+2024-11-15,Yogurt,Lácteos,5,1.1,5.5
+2024-10-14,Yogurt,Lácteos,2,1.1,2.2
+2024-10-12,Queso,Lácteos,3,2.5,7.5
+2024-09-18,Leche,Lácteos,4,0.9,3.6
+2024-09-16,Pollo,Carnes,5,3.5,17.5
+2024-10-23,Jugo natural,Bebidas,4,1.8,7.2
+2024-10-06,Frijoles,Granos,2,1.0,2.0
+2024-09-18,Yogurt,Lácteos,4,1.1,4.4
+2024-10-06,Pan,Panadería,2,0.5,1.0
+2024-09-15,Pollo,Carnes,2,3.5,7.0
+2024-10-02,Aceite,Aceites,2,2.0,4.0
+2024-11-22,Carne molida,Carnes,4,4.0,16.0
+2024-08-01,Jugo natural,Bebidas,1,1.8,1.8
+2024-11-21,Queso,Lácteos,4,2.5,10.0
+2024-09-26,Leche,Lácteos,1,0.9,0.9
+2024-08-30,Leche,Lácteos,3,0.9,2.7
+2024-10-05,Frijoles,Granos,1,1.0,1.0
+2024-08-28,Yogurt,Lácteos,1,1.1,1.1
+2024-08-24,Leche,Lácteos,1,0.9,0.9
+2024-09-16,Leche,Lácteos,2,0.9,1.8
+2024-10-31,Jugo natural,Bebidas,2,1.8,3.6
+2024-10-24,Frijoles,Granos,4,1.0,4.0
+2024-09-23,Pan,Panadería,2,0.5,1.0
+2024-11-01,Aceite,Aceites,1,2.0,2.0
+2024-10-01,Frijoles,Granos,4,1.0,4.0
+2024-10-01,Carne molida,Carnes,3,4.0,12.0
+2024-10-15,Pan,Panadería,2,0.5,1.0
+2024-10-22,Leche,Lácteos,2,0.9,1.8
+2024-08-03,Pollo,Carnes,4,3.5,14.0
+2024-08-06,Pan,Panadería,4,0.5,2.0
+2024-10-13,Leche,Lácteos,2,0.9,1.8
+2024-08-21,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-20,Leche,Lácteos,4,0.9,3.6
+2024-08-06,Queso,Lácteos,3,2.5,7.5
+2024-08-19,Jugo natural,Bebidas,2,1.8,3.6
+2024-08-22,Arroz,Granos,3,1.2,3.6
+2024-11-27,Yogurt,Lácteos,2,1.1,2.2
+2024-10-06,Leche,Lácteos,3,0.9,2.7
+2024-10-16,Pollo,Carnes,5,3.5,17.5
+2024-10-21,Jugo natural,Bebidas,2,1.8,3.6
+2024-11-21,Arroz,Granos,1,1.2,1.2
+2024-11-30,Yogurt,Lácteos,2,1.1,2.2
+2024-08-28,Frijoles,Granos,5,1.0,5.0
+2024-10-17,Carne molida,Carnes,3,4.0,12.0
+2024-11-20,Carne molida,Carnes,1,4.0,4.0
+2024-08-22,Carne molida,Carnes,2,4.0,8.0
+2024-11-15,Pan,Panadería,1,0.5,0.5
+2024-10-16,Pollo,Carnes,4,3.5,14.0
+2024-11-10,Leche,Lácteos,2,0.9,1.8
+2024-11-14,Jugo natural,Bebidas,3,1.8,5.4
+2024-10-19,Leche,Lácteos,3,0.9,2.7
+2024-09-03,Queso,Lácteos,4,2.5,10.0
+2024-11-01,Leche,Lácteos,3,0.9,2.7
+2024-11-27,Aceite,Aceites,2,2.0,4.0
+2024-10-16,Carne molida,Carnes,5,4.0,20.0
+2024-08-09,Jugo natural,Bebidas,3,1.8,5.4
+2024-09-18,Pan,Panadería,3,0.5,1.5
+2024-08-17,Pollo,Carnes,2,3.5,7.0
+2024-08-03,Frijoles,Granos,5,1.0,5.0
+2024-10-06,Pan,Panadería,2,0.5,1.0
+2024-10-27,Queso,Lácteos,4,2.5,10.0
+2024-11-14,Pollo,Carnes,3,3.5,10.5
+2024-10-17,Leche,Lácteos,2,0.9,1.8
+2024-08-23,Frijoles,Granos,2,1.0,2.0
+2024-11-24,Carne molida,Carnes,1,4.0,4.0
+2024-10-16,Jugo natural,Bebidas,2,1.8,3.6
