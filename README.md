@@ -1,4 +1,4 @@
-📦 Resumen Ejecutivo: Predicción Logística para Ventas
+Resumen: Predicción Logística para Ventas
 Este proyecto implementa un modelo de Machine Learning (Regresión o Series Temporales) para predecir las demandas logísticas futuras basándose en datos históricos de ventas y factores externos (estacionalidad, promociones, etc.).
 
 🎯 Objetivo Principal
